@@ -1,0 +1,5 @@
+<map id="gdl::intrepid::boundary_discr::ref_normals" name="gdl::intrepid::boundary_discr::ref_normals">
+<area shape="rect" id="node2" href="$a02948.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="291,5,346,32"/>
+<area shape="rect" id="node3" href="$a04190.html#a307e02ae47310e164b2afd546274540b" title="gdl::assembly_dg::ref\l_normals" alt="" coords="237,57,400,98"/>
+<area shape="rect" id="node4" href="$a04190.html#af736235b6f5275d828cc76e6bc613551" title="gdl::assembly_dg::release" alt="" coords="223,123,415,149"/>
+</map>

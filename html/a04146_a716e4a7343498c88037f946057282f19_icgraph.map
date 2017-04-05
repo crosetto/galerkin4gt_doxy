@@ -1,0 +1,7 @@
+<map id="gdl::assembly::jac" name="gdl::assembly::jac">
+<area shape="rect" id="node2" href="$a04150.html#a337fd898cbba9480516fa42db43ef690" title="adds few extra placeholders&lt;&#45;&gt;storages items to the aggregator_type " alt="" coords="192,5,412,61"/>
+<area shape="rect" id="node3" href="$a04186.html#a2f5465dc4703a2871b8d51588c4976f8" title="gdl::assembly_cg::jac" alt="" coords="221,85,383,112"/>
+<area shape="rect" id="node4" href="$a02948.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="275,136,329,163"/>
+<area shape="rect" id="node5" href="$a04186.html#abce597699a960152bb0a20051a398b3f" title="gdl::assembly_cg::release" alt="" coords="207,187,397,213"/>
+<area shape="rect" id="node6" href="$a04190.html#af736235b6f5275d828cc76e6bc613551" title="gdl::assembly_dg::release" alt="" coords="460,187,652,213"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="gdl::assembly_base::grid" name="gdl::assembly_base::grid">
+<area shape="rect" id="node2" href="$a04182.html#a3109e62b10b8fa9adc10355f6baf7b17" title="gdl::aggregator_type\l_tuple\&lt; assembly_base\l\&lt; Geometry \&gt;, Rest ...\l \&gt;::domain" alt="" coords="210,5,389,76"/>
+<area shape="rect" id="node3" href="$a04186.html#ada59e6272befb1ece1b418dd4e3d0f9d" title="gdl::assembly_cg::grid" alt="" coords="215,101,383,127"/>
+<area shape="rect" id="node4" href="$a03790.html#ac75d6649cba698a7d7c252549ff6dd78" title="legendre::legendre\l_advection::grid" alt="" coords="227,152,371,193"/>
+<area shape="rect" id="node5" href="$a03790.html#a196d4fe2572a89bcda2593905edea1b3" title="legendre::legendre\l_advection::legendre\l_advection" alt="" coords="220,218,379,274"/>
+<area shape="rect" id="node6" href="$a04186.html#abce597699a960152bb0a20051a398b3f" title="gdl::assembly_cg::release" alt="" coords="204,298,395,325"/>
+<area shape="rect" id="node7" href="$a04190.html#af736235b6f5275d828cc76e6bc613551" title="gdl::assembly_dg::release" alt="" coords="443,298,635,325"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="/home/pol/src/GridTools/galerkin4gt_master/numerics/assembly_base.hpp" name="/home/pol/src/GridTools/galerkin4gt_master/numerics/assembly_base.hpp">
+<area shape="rect" id="node3" href="$a03074.html" title="This file contains some of the core definitions used for the discretization on the reference space..." alt="" coords="2312,206,2463,233"/>
+<area shape="rect" id="node38" href="$a05346.html" title="../functors/assembly\l_functors.hpp" alt="" coords="4855,109,5010,151"/>
+<area shape="rect" id="node40" href="$a03089.html" title="intrepid.hpp" alt="" coords="4481,117,4581,143"/>
+<area shape="rect" id="node5" href="$a03050.html" title="global definitions, used in the whole library. This file is included everywhere. " alt="" coords="439,295,589,322"/>
+<area shape="rect" id="node13" href="$a03086.html" title="element_traits.hpp" alt="" coords="2315,295,2460,322"/>
+<area shape="rect" id="node46" href="$a03083.html" title="cubature.hpp" alt="" coords="4387,206,4494,233"/>
+</map>

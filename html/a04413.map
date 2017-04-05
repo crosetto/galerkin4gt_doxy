@@ -1,0 +1,5 @@
+<map id="gdl::intrepid::geometry&lt; GeoMap, Cubature &gt;" name="gdl::intrepid::geometry&lt; GeoMap, Cubature &gt;">
+<area shape="rect" id="node4" href="$a04414.html" title="{gdl::intrepid::geometry\l\&lt; geo_map, cub \&gt;\n|+ m_local_grid_s\l+ m_local_grid_s_info\l|+ geometry()\l+ grid()\l}" alt="" coords="19,1160,189,1281"/>
+<area shape="rect" id="node2" href="$a04406.html" title="{gdl::intrepid::discretization\l\&lt; GeoMap, Cubature \&gt;\n|+ bd_shape\l+ parent_shape\l# m_cub_points_s\l# m_cub_points_s_info\l# m_cub_weights_s\l# m_cub_weights_s_info\l# m_grad_at_cub_points_s\l# m_grad_at_cub_points\l_s_info\l# m_permutations\l# m_phi_at_cub_points_s\l# m_phi_at_cub_points\l_s_info\l|+ discretization()\l+ compute()\l+ cub_points()\l+ cub_weights()\l+ get_cub_points()\l+ get_cub_weights()\l+ get_ordering()\l+ grad()\l+ grad()\l+ val()\l+ val()\l+ basis_cardinality()\l}" alt="" coords="5,497,203,927"/>
+<area shape="rect" id="node3" href="$a04406.html" title="defining the finite element discretization " alt="" coords="5,5,203,435"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="gdl::assembly_dg::release" name="gdl::assembly_dg::release">
+<area shape="rect" id="node2" href="$a04210.html#afad8eebc482ad779e3071ee4bfbbdf0a" title="gdl::bd_assembly::bd\l_backend" alt="" coords="264,5,423,47"/>
+<area shape="rect" id="node3" href="$a04410.html#ac53f7c9f09a31f7cf8915c4ff799e5d0" title="gdl::intrepid::boundary\l_discr::bd_cub_weights" alt="" coords="257,71,429,112"/>
+<area shape="rect" id="node4" href="$a04210.html#a144c959c1ba1d9cbeefc735d17b25282" title="gdl::bd_assembly::bd_jac" alt="" coords="251,137,436,163"/>
+<area shape="rect" id="node5" href="$a04210.html#ae065dcb12eafa8163a485180c9ac5591" title="gdl::bd_assembly::bd\l_measure" alt="" coords="264,188,423,229"/>
+<area shape="rect" id="node6" href="$a04410.html#a9efbcae05902b433dc06d8593303e51f" title="gdl::intrepid::boundary\l_discr::grad" alt="" coords="259,253,428,295"/>
+<area shape="rect" id="node7" href="$a04210.html#a2ead20f0eb83eb529c0e9e3008df3178" title="gdl::bd_assembly::normals" alt="" coords="245,319,441,346"/>
+<area shape="rect" id="node8" href="$a04410.html#aa85a3308767d0d353b87ff2fde3b53e0" title="returns the normals to the element boundaries in the reference configuration " alt="" coords="259,371,428,412"/>
+<area shape="rect" id="node9" href="$a04186.html#abce597699a960152bb0a20051a398b3f" title="gdl::assembly_cg::release" alt="" coords="248,437,439,463"/>
+<area shape="rect" id="node15" href="$a04410.html#a443fc0d2344659233f6ca2722165e4c5" title="gdl::intrepid::boundary\l_discr::val" alt="" coords="259,488,428,529"/>
+<area shape="rect" id="node10" href="$a04146.html#a8f29a990a02cf2f89b98166c73b76501" title="gdl::assembly::fe_backend" alt="" coords="489,319,684,346"/>
+<area shape="rect" id="node11" href="$a04170.html#a85683206048cafec8aecd00cfe5a795c" title="gdl::assembly_base\l::grid" alt="" coords="511,371,662,412"/>
+<area shape="rect" id="node12" href="$a04146.html#a716e4a7343498c88037f946057282f19" title="gdl::assembly::jac" alt="" coords="517,437,656,463"/>
+<area shape="rect" id="node13" href="$a04146.html#ac9d35c4a209a4f6977a822d7f501a6f0" title="gdl::assembly::jac_det" alt="" coords="503,487,670,514"/>
+<area shape="rect" id="node14" href="$a04146.html#a1642d6078a9ceca999ae8313e7b6fbe7" title="gdl::assembly::jac_inv" alt="" coords="503,538,670,565"/>
+</map>

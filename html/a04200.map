@@ -1,0 +1,7 @@
+<map id="gdl::assembly_dg&lt; Geo &gt;" name="gdl::assembly_dg&lt; Geo &gt;">
+<area shape="rect" id="node2" href="$a04198.html" title="{gdl::assembly_cg\&lt; Geo \&gt;\n||+ assembly_cg()\l+ compute()\l+ cub_weights()\l+ dphi()\l+ geo()\l+ grid()\l+ jac()\l+ jac_det()\l+ jac_inv()\l+ phi()\l+ release()\l}" alt="" coords="173,748,364,972"/>
+<area shape="rect" id="node4" href="$a04158.html" title="{gdl::assembly\&lt; Geo \&gt;\n||+ assembly()\l+ cub_weights()\l+ fe_backend()\l+ get_cub_weights()\l+ get_fe_backend()\l+ get_jac()\l+ get_jac_det()\l+ get_jac_inv()\l+ jac()\l+ jac_det()\l+ jac_inv()\l}" alt="" coords="276,461,445,685"/>
+<area shape="rect" id="node7" href="$a04158.html" title="aggregator of tools and storages used to assemble the finite elements discretization of the most comm..." alt="" coords="376,175,584,399"/>
+<area shape="rect" id="node9" href="$a04182.html" title="{gdl::assembly_base\l\&lt; Geo \&gt;\n||+ assembly_base()\l+ get_grid()\l+ get_grid_info()\l+ grid()\l}" alt="" coords="101,505,252,641"/>
+<area shape="rect" id="node10" href="$a04182.html" title="struct containing the grid information " alt="" coords="101,219,252,355"/>
+</map>

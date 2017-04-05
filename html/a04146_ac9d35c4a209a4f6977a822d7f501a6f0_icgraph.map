@@ -1,0 +1,8 @@
+<map id="gdl::assembly::jac_det" name="gdl::assembly::jac_det">
+<area shape="rect" id="node2" href="$a04150.html#a337fd898cbba9480516fa42db43ef690" title="adds few extra placeholders&lt;&#45;&gt;storages items to the aggregator_type " alt="" coords="220,5,440,61"/>
+<area shape="rect" id="node3" href="$a03790.html#aa466d78a893b6afb54a461c0f93e7171" title="legendre::legendre\l_advection::eval" alt="" coords="258,86,402,127"/>
+<area shape="rect" id="node4" href="$a02948.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="557,123,611,149"/>
+<area shape="rect" id="node5" href="$a04186.html#a9c189f16bdd82321effe7b28a1ccabda" title="gdl::assembly_cg::jac_det" alt="" coords="235,203,425,229"/>
+<area shape="rect" id="node6" href="$a04186.html#abce597699a960152bb0a20051a398b3f" title="gdl::assembly_cg::release" alt="" coords="235,253,425,280"/>
+<area shape="rect" id="node7" href="$a04190.html#af736235b6f5275d828cc76e6bc613551" title="gdl::assembly_dg::release" alt="" coords="488,253,680,280"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="gdl::assembly&lt; Geometry &gt;" name="gdl::assembly&lt; Geometry &gt;">
+<area shape="rect" id="node2" href="$a04158.html" title="{gdl::assembly\&lt; geo_t \&gt;\n|+ m_d1\l+ m_d2\l+ m_d3\l+ edge_points\l|+ assembly()\l+ cub_weights()\l+ fe_backend()\l+ get_cub_weights()\l+ get_fe_backend()\l+ get_jac()\l+ get_jac_det()\l+ get_jac_inv()\l+ jac()\l+ jac_det()\l+ jac_inv()\l}" alt="" coords="5,336,184,604"/>
+<area shape="rect" id="node3" href="$a04158.html" title="{gdl::assembly\&lt; Geo \&gt;\n|+ m_d1\l+ m_d2\l+ m_d3\l+ edge_points\l|+ assembly()\l+ cub_weights()\l+ fe_backend()\l+ get_cub_weights()\l+ get_fe_backend()\l+ get_jac()\l+ get_jac_det()\l+ get_jac_inv()\l+ jac()\l+ jac_det()\l+ jac_inv()\l}" alt="" coords="209,336,378,604"/>
+</map>

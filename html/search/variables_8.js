@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['n_5fargs',['n_args',['../a04478.html#a5f4a25f4385bb6ce624805dd35c49919',1,'bspline_basis_struct::n_args()'],['../a04482.html#a122fb17caa80270bcf9c5c72141e07c4',1,'bspline_struct::n_args()'],['../a04486.html#a4f689d18ba766587873caaccad2249f4',1,'curve_struct::n_args()']]],
+  ['n_5fdof',['n_dof',['../a02909.html#ae40f4a2f9a297dc8cc1130b7c3ab0e8a',1,'n_dof():&#160;cg_linear_solver.cpp'],['../a02957.html#ae40f4a2f9a297dc8cc1130b7c3ab0e8a',1,'n_dof():&#160;linear_solver.cpp']]],
+  ['n_5fsub_5fcells',['n_sub_cells',['../a04274.html#a32bd8a4f90da1e08dddfb9285e4cb877',1,'gdl::shape_property&lt; enumtype::Hexa &gt;::n_sub_cells()'],['../a04294.html#aee62d9feab1309b8b54518eab5d66ca3',1,'gdl::shape_property&lt; enumtype::Tetra &gt;::n_sub_cells()'],['../a04298.html#a9ce70e9be780751ae80148f7017e3f26',1,'gdl::shape_property&lt; enumtype::Quad &gt;::n_sub_cells()'],['../a04302.html#af6fd230086c50eca36591f7c284da0df',1,'gdl::shape_property&lt; enumtype::Tri &gt;::n_sub_cells()'],['../a04306.html#ae63d29678ad4685f2514a85b6b766adb',1,'gdl::shape_property&lt; enumtype::Line &gt;::n_sub_cells()'],['../a04406.html#a2932d01059aa4b9be8637d865b0c5f5d',1,'gdl::intrepid::boundary_cub::n_sub_cells()'],['../a04410.html#a4c0255faa55d01c48e9280f8206a7be9',1,'gdl::intrepid::boundary_discr::n_sub_cells()']]]
+];

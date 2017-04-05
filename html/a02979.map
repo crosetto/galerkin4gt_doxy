@@ -1,0 +1,18 @@
+<map id="/home/pol/src/GridTools/galerkin4gt_master/examples/stiffness.cpp" name="/home/pol/src/GridTools/galerkin4gt_master/examples/stiffness.cpp">
+<area shape="rect" id="node2" href="$a03062.html" title="../numerics/assembly.hpp" alt="" coords="3415,184,3601,211"/>
+<area shape="rect" id="node49" href="$a03047.html" title="../functors/stiffness.hpp" alt="" coords="3654,259,3829,285"/>
+<area shape="rect" id="node50" href="$a02984.html" title="test_assembly.hpp" alt="" coords="3546,109,3689,136"/>
+<area shape="rect" id="node3" href="$a03065.html" title="assembly_base.hpp" alt="" coords="3427,259,3578,285"/>
+<area shape="rect" id="node36" href="$a05324.html" title="../functors/assembly\l_functors.hpp" alt="" coords="3619,333,3773,375"/>
+<area shape="rect" id="node47" href="$a03035.html" title="../functors/mass.hpp" alt="" coords="3041,259,3196,285"/>
+<area shape="rect" id="node48" href="$a03005.html" title="../functors/advection.hpp" alt="" coords="3221,259,3403,285"/>
+<area shape="rect" id="node5" href="$a03074.html" title="This file contains some of the core definitions used for the discretization on the reference space..." alt="" coords="1590,430,1741,457"/>
+<area shape="rect" id="node38" href="$a03089.html" title="intrepid.hpp" alt="" coords="3287,341,3387,367"/>
+<area shape="rect" id="node7" href="$a03050.html" title="../galerkin_defs.hpp" alt="" coords="1221,519,1371,546"/>
+<area shape="rect" id="node9" href="$a03098.html" title="tensor_product_element.hpp" alt="" coords="1396,519,1604,546"/>
+<area shape="rect" id="node10" href="$a03080.html" title="cell.hpp" alt="" coords="1629,519,1702,546"/>
+<area shape="rect" id="node14" href="$a03086.html" title="element_traits.hpp" alt="" coords="2597,519,2742,546"/>
+<area shape="rect" id="node34" href="$a05321.html" title="legendre.hpp" alt="" coords="4217,609,4324,635"/>
+<area shape="rect" id="node37" href="$a03131.html" title="../utils/indexing.hpp" alt="" coords="4633,430,4783,457"/>
+<area shape="rect" id="node44" href="$a03083.html" title="cubature.hpp" alt="" coords="3441,430,3548,457"/>
+</map>

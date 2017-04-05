@@ -1,0 +1,9 @@
+<map id="segment" name="segment">
+<area shape="rect" id="node2" href="$a04086.html" title="{subdomain\&lt; segment \&gt;\n||+ subdomain()\l+ is_on_boundary()\l}" alt="" coords="269,888,450,980"/>
+<area shape="rect" id="node3" href="$a04078.html" title="{subdomain_data\&lt; segment \&gt;\n||+ subdomain_data()\l+ geom_data()\l+ geom_data()\l+ tolerance()\l+ tolerance()\l}" alt="" coords="130,689,347,825"/>
+<area shape="rect" id="node4" href="$a04769.html" title="{double\n||}" alt="" coords="82,13,149,90"/>
+<area shape="rect" id="node5" href="$a04074.html" title="{subdomain_geom_data\l\&lt; segment \&gt;\n||+ subdomain_geom_data()\l+ segment_len()\l+ segment_vec()\l+ start_point()\l+ stop_point()\l}" alt="" coords="108,476,307,627"/>
+<area shape="rect" id="node6" href="$a04062.html" title="{coord_t\n||+ coord_t()\l+ mod()\l+ mod2()\l+ x()\l+ x()\l+ y()\l+ y()\l+ z()\l+ z()\l}" alt="" coords="239,189,334,384"/>
+<area shape="rect" id="node7" href="$a04078.html" title="{subdomain_data\&lt; Subdomain\lDef \&gt;\n||+ subdomain_data()\l+ geom_data()\l+ geom_data()\l+ tolerance()\l+ tolerance()\l}" alt="" coords="358,211,577,362"/>
+<area shape="rect" id="node9" href="$a04086.html" title="{subdomain\&lt; SubdomainDef \&gt;\n||+ subdomain()\l+ is_on_boundary()\l}" alt="" coords="423,711,643,803"/>
+</map>

@@ -1,0 +1,3955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+  <Token>
+    <TokenIdentifier>
+      <Name>main</Name>
+      <APILanguage>c</APILanguage>
+      <Type>func</Type>
+    </TokenIdentifier>
+    <Path>a02981.html</Path>
+    <Anchor>ae66f6b31b5ad750f1fe042a706a4e3d4</Anchor>
+    <Abstract>[assembly] </Abstract>
+    <DeclaredIn>stiffness_2D.cpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>layout_tt</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>tdef</Type>
+      <Scope>gdl</Scope>
+    </TokenIdentifier>
+    <Path>a03201.html</Path>
+    <Anchor>ad72ade070daadc10982baddfa6bee9ed</Anchor>
+    <Abstract>Metafunction generating the layout_map with the appropriate order of the dimensions (increasing for C...</Abstract>
+    <DeclaredIn>basis_functions.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>cross_product</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl</Scope>
+    </TokenIdentifier>
+    <Path>a03201.html</Path>
+    <Anchor>aa015b529c39c20e4e22237a453accf8e</Anchor>
+    <Abstract>compute vector cross product </Abstract>
+    <DeclaredIn>basis_functions.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>ricci</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl</Scope>
+    </TokenIdentifier>
+    <Path>a03201.html</Path>
+    <Anchor>a9e24a7763e17eae8b498859b88e6b04d</Anchor>
+    <Abstract>compute Ricci symbol  </Abstract>
+    <DeclaredIn>basis_functions.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>ricci</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl</Scope>
+    </TokenIdentifier>
+    <Path>a03201.html</Path>
+    <Anchor>a8b4ad6acfbb36667c5a16d5fc110c9fb</Anchor>
+    <Abstract>compute Ricci symbol  </Abstract>
+    <DeclaredIn>basis_functions.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>reindex</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl</Scope>
+    </TokenIdentifier>
+    <Path>a03201.html</Path>
+    <Anchor>acd0c5b8070e77b7592b1b228bc2e7a49</Anchor>
+    <Abstract>Performing a copy of a scalar field into the provided data pointer. </Abstract>
+    <DeclaredIn>io.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>reindex_on_face</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl</Scope>
+    </TokenIdentifier>
+    <Path>a03201.html</Path>
+    <Anchor>aa08f50701ea816b8b71c6ae87a26050d</Anchor>
+    <DeclaredIn>io.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>reindex_on_qpoints</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl</Scope>
+    </TokenIdentifier>
+    <Path>a03201.html</Path>
+    <Anchor>a34a394dab81ea0093bd325776ac58e46</Anchor>
+    <DeclaredIn>io.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>reindex_vec</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl</Scope>
+    </TokenIdentifier>
+    <Path>a03201.html</Path>
+    <Anchor>ae7397f8970f32468b76d7fe2c664048a</Anchor>
+    <Abstract>function to serialize the scalar/vector valued fields living on a mesh into an array ...</Abstract>
+    <DeclaredIn>io.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>spy</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl</Scope>
+    </TokenIdentifier>
+    <Path>a03201.html</Path>
+    <Anchor>ab760b6b018082460ba18725f5850f527</Anchor>
+    <Abstract>export a matrix in matrix market format </Abstract>
+    <DeclaredIn>io.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>spy_vec</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl</Scope>
+    </TokenIdentifier>
+    <Path>a03201.html</Path>
+    <Anchor>acb8e740d3ef071671cdc358594977eb0</Anchor>
+    <Abstract>exports a vector </Abstract>
+    <DeclaredIn>io.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>cubed_sphere</Name>
+      <APILanguage>c</APILanguage>
+    </TokenIdentifier>
+    <Path>a05318.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>DG</Name>
+      <APILanguage>c</APILanguage>
+    </TokenIdentifier>
+    <Path>a05319.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>dg_advection</Name>
+      <APILanguage>c</APILanguage>
+    </TokenIdentifier>
+    <Path>a05320.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>dg_flux</Name>
+      <APILanguage>c</APILanguage>
+    </TokenIdentifier>
+    <Path>a05321.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>examples</Name>
+      <APILanguage>c</APILanguage>
+    </TokenIdentifier>
+    <Path>a05322.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>Galerkin</Name>
+      <APILanguage>c</APILanguage>
+    </TokenIdentifier>
+    <Path>a05323.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gather</Name>
+      <APILanguage>c</APILanguage>
+    </TokenIdentifier>
+    <Path>a05324.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>installation</Name>
+      <APILanguage>c</APILanguage>
+    </TokenIdentifier>
+    <Path>a05325.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>interpolation</Name>
+      <APILanguage>c</APILanguage>
+    </TokenIdentifier>
+    <Path>a05326.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>legendre</Name>
+      <APILanguage>c</APILanguage>
+    </TokenIdentifier>
+    <Path>a05327.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>mass</Name>
+      <APILanguage>c</APILanguage>
+    </TokenIdentifier>
+    <Path>a05328.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>matrix_vector_multiply</Name>
+      <APILanguage>c</APILanguage>
+    </TokenIdentifier>
+    <Path>a05329.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>scalar_vector_sum</Name>
+      <APILanguage>c</APILanguage>
+    </TokenIdentifier>
+    <Path>a05330.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>stiffness</Name>
+      <APILanguage>c</APILanguage>
+    </TokenIdentifier>
+    <Path>a05331.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>vector_vector_multiply</Name>
+      <APILanguage>c</APILanguage>
+    </TokenIdentifier>
+    <Path>a05332.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>citelist</Name>
+      <APILanguage>unknown</APILanguage>
+    </TokenIdentifier>
+    <Path>a05352.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>bc_tag_assigner</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>bc_tag_assigner</Scope>
+    </TokenIdentifier>
+    <Path>a04106.html</Path>
+    <DeclaredIn>bc_tags_handling.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>apply</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>bc_tag_assigner</Scope>
+    </TokenIdentifier>
+    <Path>a04106.html</Path>
+    <Anchor>a60fde75d6afe7c7dbbf9af985fbc8dfe</Anchor>
+    <Abstract>tag assignement execution method </Abstract>
+    <DeclaredIn>bc_tags_handling.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>bc_tag_assigner_static</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>bc_tag_assigner_static</Scope>
+    </TokenIdentifier>
+    <Path>a04110.html</Path>
+    <DeclaredIn>bc_tags_handling.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>apply</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>bc_tag_assigner_static</Scope>
+    </TokenIdentifier>
+    <Path>a04110.html</Path>
+    <Anchor>af754c80fbb43668612655319a18e53d6</Anchor>
+    <Abstract>tag assignement execution method </Abstract>
+    <DeclaredIn>bc_tags_handling.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>bspline_basis_struct</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>bspline_basis_struct</Scope>
+    </TokenIdentifier>
+    <Path>a04490.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>bspline_struct</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>bspline_struct</Scope>
+    </TokenIdentifier>
+    <Path>a04494.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>coord_t</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>coord_t</Scope>
+    </TokenIdentifier>
+    <Path>a04062.html</Path>
+    <DeclaredIn>bc_tags_handling.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>curve_struct</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>curve_struct</Scope>
+    </TokenIdentifier>
+    <Path>a04498.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>dolfin_mesh</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>dolfin_mesh</Scope>
+    </TokenIdentifier>
+    <Path>a04114.html</Path>
+    <Abstract>Dolfin mesh wrapper class. </Abstract>
+    <DeclaredIn>dolfin_mesh.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>dolfin_mesh</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>dolfin_mesh</Scope>
+    </TokenIdentifier>
+    <Path>a04114.html</Path>
+    <Anchor>aa0dd0649d5407745caee133dc7d74c04</Anchor>
+    <Abstract>constructor (XML dolfin mesh file required) </Abstract>
+    <DeclaredIn>dolfin_mesh.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>build_grid</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>dolfin_mesh</Scope>
+    </TokenIdentifier>
+    <Path>a04114.html</Path>
+    <Anchor>a8663db57d8fe99294bf949755efd60da</Anchor>
+    <Abstract>grid initialization method </Abstract>
+    <DeclaredIn>dolfin_mesh.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>FE</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>FE</Scope>
+    </TokenIdentifier>
+    <Path>a05305.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>float_value</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>float_value</Scope>
+    </TokenIdentifier>
+    <Path>a03762.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>flux</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>flux</Scope>
+    </TokenIdentifier>
+    <Path>a03770.html</Path>
+    <Abstract>[assembly] </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>linear</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>linear</Scope>
+    </TokenIdentifier>
+    <Path>a04638.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>scalar</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>scalar</Scope>
+    </TokenIdentifier>
+    <Path>a03854.html</Path>
+    <Abstract>[scalar_struct] </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>segment</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>segment</Scope>
+    </TokenIdentifier>
+    <Path>a04094.html</Path>
+    <DeclaredIn>bc_tags_handling.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>is_on_boundary</Name>
+      <APILanguage>unknown</APILanguage>
+      <Type>instm</Type>
+      <Scope>subdomain&lt; segment &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04086.html</Path>
+    <Anchor>a6055e19738b74b949f53524022e63f21</Anchor>
+    <Abstract>check if point is in subdomain boundary method </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>simple_gather</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>simple_gather</Scope>
+    </TokenIdentifier>
+    <Path>a03786.html</Path>
+    <Abstract>[gather] </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>square</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>square</Scope>
+    </TokenIdentifier>
+    <Path>a04090.html</Path>
+    <DeclaredIn>bc_tags_handling.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>is_on_boundary</Name>
+      <APILanguage>unknown</APILanguage>
+      <Type>instm</Type>
+      <Scope>subdomain&lt; square &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04086.html</Path>
+    <Anchor>a6055e19738b74b949f53524022e63f21</Anchor>
+    <Abstract>check if point is in subdomain boundary method </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>subdomain</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>subdomain</Scope>
+    </TokenIdentifier>
+    <Path>a04086.html</Path>
+    <DeclaredIn>bc_tags_handling.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>is_on_boundary</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>subdomain</Scope>
+    </TokenIdentifier>
+    <Path>a04086.html</Path>
+    <Anchor>a6055e19738b74b949f53524022e63f21</Anchor>
+    <Abstract>check if point is in subdomain boundary method </Abstract>
+    <DeclaredIn>bc_tags_handling.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>subdomain_data</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>subdomain_data</Scope>
+    </TokenIdentifier>
+    <Path>a04078.html</Path>
+    <DeclaredIn>bc_tags_handling.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>subdomain_geom_data</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>subdomain_geom_data</Scope>
+    </TokenIdentifier>
+    <Path>a04066.html</Path>
+    <DeclaredIn>bc_tags_handling.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>subdomain_geom_data&lt; segment &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>subdomain_geom_data&lt; segment &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04074.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>subdomain_geom_data&lt; square &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>subdomain_geom_data&lt; square &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04070.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>tag_assigned_operator</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>tag_assigned_operator</Scope>
+    </TokenIdentifier>
+    <Path>a04634.html</Path>
+    <DeclaredIn>bc_tags_handling.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>tag_assigner_operator</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>tag_assigner_operator</Scope>
+    </TokenIdentifier>
+    <Path>a04102.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>tagged_subdomain</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>tagged_subdomain</Scope>
+    </TokenIdentifier>
+    <Path>a04098.html</Path>
+    <DeclaredIn>bc_tags_handling.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>assign_tag</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>tagged_subdomain</Scope>
+    </TokenIdentifier>
+    <Path>a04098.html</Path>
+    <Anchor>a636afeb0680b9d5dfc3cdf594f14cb6e</Anchor>
+    <Abstract>check if boundary tag must be assigned to point method </Abstract>
+    <DeclaredIn>bc_tags_handling.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>tagged_subdomain_data</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>tagged_subdomain_data</Scope>
+    </TokenIdentifier>
+    <Path>a04082.html</Path>
+    <DeclaredIn>bc_tags_handling.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>basis_function_storage_t</Name>
+      <APILanguage>unknown</APILanguage>
+      <Type>cl</Type>
+      <Scope>basis_function_storage_t</Scope>
+    </TokenIdentifier>
+    <Path>a04753.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>basis_function_storage_t_info</Name>
+      <APILanguage>unknown</APILanguage>
+      <Type>cl</Type>
+      <Scope>basis_function_storage_t_info</Scope>
+    </TokenIdentifier>
+    <Path>a04729.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>double</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>double</Scope>
+    </TokenIdentifier>
+    <Path>a04769.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>grad_storage_t</Name>
+      <APILanguage>unknown</APILanguage>
+      <Type>cl</Type>
+      <Scope>grad_storage_t</Scope>
+    </TokenIdentifier>
+    <Path>a04745.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>grad_storage_t_info</Name>
+      <APILanguage>unknown</APILanguage>
+      <Type>cl</Type>
+      <Scope>grad_storage_t_info</Scope>
+    </TokenIdentifier>
+    <Path>a04721.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>storage_info_t&lt; gt::pair&lt; discretization&lt; GeoMap, Cubature &gt;, static_int&lt; __COUNTER__ &gt; &gt;, layout3_t &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>storage_info_t&lt; gt::pair&lt; discretization&lt; GeoMap, Cubature &gt;, static_int&lt; __COUNTER__ &gt; &gt;, layout3_t &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04713.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>storage_t&lt; cub_points_storage_t_info &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>storage_t&lt; cub_points_storage_t_info &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04733.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>storage_t&lt; weights_storage_t_info &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>storage_t&lt; weights_storage_t_info &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04737.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>uint_t</Name>
+      <APILanguage>unknown</APILanguage>
+      <Type>cl</Type>
+      <Scope>uint_t</Scope>
+    </TokenIdentifier>
+    <Path>a04709.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>functors::mass_IGA::mass</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>functors::mass_IGA::mass</Scope>
+    </TokenIdentifier>
+    <Path>a04474.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>jac_det</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>tdef</Type>
+      <Scope>functors::mass_IGA::mass</Scope>
+    </TokenIdentifier>
+    <Path>a04474.html</Path>
+    <Anchor>ac4a9d02d89e30418061891b651d545fe</Anchor>
+    <Abstract>[accessors] </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>Do</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>functors::mass_IGA::mass</Scope>
+    </TokenIdentifier>
+    <Path>a04474.html</Path>
+    <Anchor>aa3194d49f8a256714edee4916186459e</Anchor>
+    <Abstract>[accessors] </Abstract>
+    <DeclaredIn>mass_IGA.cpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl</Name>
+      <APILanguage>c</APILanguage>
+      <Type>ns</Type>
+      <Scope>gdl</Scope>
+    </TokenIdentifier>
+    <Path>a03201.html</Path>
+    <Abstract>[assembly] </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>layout_tt</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>tdef</Type>
+      <Scope>gdl</Scope>
+    </TokenIdentifier>
+    <Path>a03201.html</Path>
+    <Anchor>ad72ade070daadc10982baddfa6bee9ed</Anchor>
+    <Abstract>Metafunction generating the layout_map with the appropriate order of the dimensions (increasing for C...</Abstract>
+    <DeclaredIn>basis_functions.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>cross_product</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl</Scope>
+    </TokenIdentifier>
+    <Path>a03201.html</Path>
+    <Anchor>aa015b529c39c20e4e22237a453accf8e</Anchor>
+    <Abstract>compute vector cross product </Abstract>
+    <DeclaredIn>basis_functions.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>reindex</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl</Scope>
+    </TokenIdentifier>
+    <Path>a03201.html</Path>
+    <Anchor>acd0c5b8070e77b7592b1b228bc2e7a49</Anchor>
+    <Abstract>Performing a copy of a scalar field into the provided data pointer. </Abstract>
+    <DeclaredIn>io.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>reindex_on_face</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl</Scope>
+    </TokenIdentifier>
+    <Path>a03201.html</Path>
+    <Anchor>aa08f50701ea816b8b71c6ae87a26050d</Anchor>
+    <DeclaredIn>io.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>reindex_on_qpoints</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl</Scope>
+    </TokenIdentifier>
+    <Path>a03201.html</Path>
+    <Anchor>a34a394dab81ea0093bd325776ac58e46</Anchor>
+    <DeclaredIn>io.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>reindex_vec</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl</Scope>
+    </TokenIdentifier>
+    <Path>a03201.html</Path>
+    <Anchor>ae7397f8970f32468b76d7fe2c664048a</Anchor>
+    <Abstract>function to serialize the scalar/vector valued fields living on a mesh into an array ...</Abstract>
+    <DeclaredIn>io.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>ricci</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl</Scope>
+    </TokenIdentifier>
+    <Path>a03201.html</Path>
+    <Anchor>a9e24a7763e17eae8b498859b88e6b04d</Anchor>
+    <Abstract>compute Ricci symbol  </Abstract>
+    <DeclaredIn>basis_functions.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>ricci</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl</Scope>
+    </TokenIdentifier>
+    <Path>a03201.html</Path>
+    <Anchor>a8b4ad6acfbb36667c5a16d5fc110c9fb</Anchor>
+    <Abstract>compute Ricci symbol  </Abstract>
+    <DeclaredIn>basis_functions.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>spy</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl</Scope>
+    </TokenIdentifier>
+    <Path>a03201.html</Path>
+    <Anchor>ab760b6b018082460ba18725f5850f527</Anchor>
+    <Abstract>export a matrix in matrix market format </Abstract>
+    <DeclaredIn>io.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>spy_vec</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl</Scope>
+    </TokenIdentifier>
+    <Path>a03201.html</Path>
+    <Anchor>acb8e740d3ef071671cdc358594977eb0</Anchor>
+    <Abstract>exports a vector </Abstract>
+    <DeclaredIn>io.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::aggregator_type_tuple</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::aggregator_type_tuple</Scope>
+    </TokenIdentifier>
+    <Path>a04186.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::aggregator_type_tuple&lt; assembly&lt; Geometry &gt;, Rest ... &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::aggregator_type_tuple&lt; assembly&lt; Geometry &gt;, Rest ... &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04162.html</Path>
+    <Abstract>struct aggregator_type_tuple </Abstract>
+    <DeclaredIn>assembly.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>p_jac</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>tdef</Type>
+      <Scope>gdl::aggregator_type_tuple&lt; assembly&lt; Geometry &gt;, Rest ... &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04162.html</Path>
+    <Anchor>ae3b5d155f50953a565f4a4a0554a6411</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>domain</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::aggregator_type_tuple&lt; assembly&lt; Geometry &gt;, Rest ... &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04162.html</Path>
+    <Anchor>a337fd898cbba9480516fa42db43ef690</Anchor>
+    <Abstract>adds few extra placeholders&lt;-&gt;storages items to the aggregator_type </Abstract>
+    <DeclaredIn>assembly.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::aggregator_type_tuple&lt; assembly&lt; Geometry &gt;, Rest ... &gt;::advection</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::aggregator_type_tuple&lt; assembly&lt; Geometry &gt;, Rest ... &gt;::advection</Scope>
+    </TokenIdentifier>
+    <Path>a04178.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::aggregator_type_tuple&lt; assembly&lt; Geometry &gt;, Rest ... &gt;::mass</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::aggregator_type_tuple&lt; assembly&lt; Geometry &gt;, Rest ... &gt;::mass</Scope>
+    </TokenIdentifier>
+    <Path>a04170.html</Path>
+    <Abstract>computing the local mass matrix </Abstract>
+    <DeclaredIn>assembly.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::aggregator_type_tuple&lt; assembly&lt; Geometry &gt;, Rest ... &gt;::stiffness</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::aggregator_type_tuple&lt; assembly&lt; Geometry &gt;, Rest ... &gt;::stiffness</Scope>
+    </TokenIdentifier>
+    <Path>a04174.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::aggregator_type_tuple&lt; assembly&lt; Geometry &gt;, Rest ... &gt;::update_jac</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::aggregator_type_tuple&lt; assembly&lt; Geometry &gt;, Rest ... &gt;::update_jac</Scope>
+    </TokenIdentifier>
+    <Path>a04166.html</Path>
+    <Abstract>computing the jacobian matrix. </Abstract>
+    <DeclaredIn>assembly.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::aggregator_type_tuple&lt; assembly_base&lt; Geometry &gt;, Rest ... &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::aggregator_type_tuple&lt; assembly_base&lt; Geometry &gt;, Rest ... &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04194.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>p_grid_points</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>tdef</Type>
+      <Scope>gdl::aggregator_type_tuple&lt; assembly_base&lt; Geometry &gt;, Rest ... &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04194.html</Path>
+    <Anchor>a8a234b185af444a41d3476dd32f27401</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::aggregator_type_tuple&lt; bd_assembly&lt; Boundary &gt;, Rest ... &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::aggregator_type_tuple&lt; bd_assembly&lt; Boundary &gt;, Rest ... &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04226.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>domain</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::aggregator_type_tuple&lt; bd_assembly&lt; Boundary &gt;, Rest ... &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04226.html</Path>
+    <Anchor>a6a95b0f44cd383a333c048f9def6429a</Anchor>
+    <Abstract>adds few extra placeholders&lt;-&gt;storages items to the aggregator_type </Abstract>
+    <DeclaredIn>bd_assembly.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::aggregator_type_tuple&lt; bd_assembly&lt; Boundary &gt;, Rest ... &gt;::bd_integrate</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>gdl::aggregator_type_tuple&lt; bd_assembly&lt; Boundary &gt;, Rest ... &gt;::bd_integrate</Scope>
+    </TokenIdentifier>
+    <Path>a04234.html</Path>
+    <Abstract>struct defining the computation stage for a boundary integral </Abstract>
+    <DeclaredIn>bd_assembly.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::aggregator_type_tuple&lt; bd_assembly&lt; Boundary &gt;, Rest ... &gt;::compute_face_normals</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>gdl::aggregator_type_tuple&lt; bd_assembly&lt; Boundary &gt;, Rest ... &gt;::compute_face_normals</Scope>
+    </TokenIdentifier>
+    <Path>a04230.html</Path>
+    <Abstract>struct defining the computation stage for the face normals </Abstract>
+    <DeclaredIn>bd_assembly.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::aggregator_type_tuple&lt; bd_assembly&lt; Boundary &gt;, Rest ... &gt;::lax_friedrich</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::aggregator_type_tuple&lt; bd_assembly&lt; Boundary &gt;, Rest ... &gt;::lax_friedrich</Scope>
+    </TokenIdentifier>
+    <Path>a04246.html</Path>
+    <Abstract>computing the Lax-Friedrich flux on the boundary </Abstract>
+    <DeclaredIn>bd_assembly.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::aggregator_type_tuple&lt; bd_assembly&lt; Boundary &gt;, Rest ... &gt;::measure</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::aggregator_type_tuple&lt; bd_assembly&lt; Boundary &gt;, Rest ... &gt;::measure</Scope>
+    </TokenIdentifier>
+    <Path>a04242.html</Path>
+    <Abstract>computing the integral measure on the boundary </Abstract>
+    <DeclaredIn>bd_assembly.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::aggregator_type_tuple&lt; bd_assembly&lt; Boundary &gt;, Rest ... &gt;::update_bd_jac</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::aggregator_type_tuple&lt; bd_assembly&lt; Boundary &gt;, Rest ... &gt;::update_bd_jac</Scope>
+    </TokenIdentifier>
+    <Path>a04238.html</Path>
+    <Abstract>computing the jacobian on the boundary </Abstract>
+    <DeclaredIn>bd_assembly.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::aggregator_type_tuple&lt; bd_assembly&lt; Boundary &gt;, Rest ... &gt;::upwind</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::aggregator_type_tuple&lt; bd_assembly&lt; Boundary &gt;, Rest ... &gt;::upwind</Scope>
+    </TokenIdentifier>
+    <Path>a04250.html</Path>
+    <Abstract>computing the upwind flux on the boundary </Abstract>
+    <DeclaredIn>bd_assembly.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::aggregator_type_tuple&lt;&gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::aggregator_type_tuple&lt;&gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04190.html</Path>
+    <DeclaredIn>assembly_base.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::assemble_storage</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::assemble_storage</Scope>
+    </TokenIdentifier>
+    <Path>a04134.html</Path>
+    <Abstract>FEM assemble focused storage. </Abstract>
+    <DeclaredIn>assemble_storage.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>assemble_storage</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::assemble_storage</Scope>
+    </TokenIdentifier>
+    <Path>a04134.html</Path>
+    <Anchor>af5cc1224b42fd737a2960d09ff55c2b3</Anchor>
+    <Abstract>constructor </Abstract>
+    <DeclaredIn>assemble_storage.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>get_value</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::assemble_storage</Scope>
+    </TokenIdentifier>
+    <Path>a04134.html</Path>
+    <Anchor>aec98ae94db450b0ead802d4b30729578</Anchor>
+    <Abstract>global dof base data access method </Abstract>
+    <DeclaredIn>assemble_storage.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>get_value</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::assemble_storage</Scope>
+    </TokenIdentifier>
+    <Path>a04134.html</Path>
+    <Anchor>a190f2c3acb6e8e581f0ed276f0c54e3f</Anchor>
+    <Abstract>global dof base data access method </Abstract>
+    <DeclaredIn>assemble_storage.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::assembly</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::assembly</Scope>
+    </TokenIdentifier>
+    <Path>a04158.html</Path>
+    <Abstract>aggregator of tools and storages used to assemble the finite elements discretization of the most comm...</Abstract>
+    <DeclaredIn>assembly.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>assembly</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::assembly</Scope>
+    </TokenIdentifier>
+    <Path>a04158.html</Path>
+    <Anchor>ab7fddbae9c4606124e1f243997eae21f</Anchor>
+    <Abstract>construct the basic storages involved in the finite elements assembly </Abstract>
+    <DeclaredIn>assembly.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>cub_weights</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::assembly</Scope>
+    </TokenIdentifier>
+    <Path>a04158.html</Path>
+    <Anchor>a737a9328123c541c58ebb0bceee64209</Anchor>
+    <Abstract>returns the cubature weights as a non const reference </Abstract>
+    <DeclaredIn>assembly.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>fe_backend</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::assembly</Scope>
+    </TokenIdentifier>
+    <Path>a04158.html</Path>
+    <Anchor>a8f29a990a02cf2f89b98166c73b76501</Anchor>
+    <Abstract>returns the finite elements backend (see discretization) as a non const reference ...</Abstract>
+    <DeclaredIn>assembly.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>get_fe_backend</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::assembly</Scope>
+    </TokenIdentifier>
+    <Path>a04158.html</Path>
+    <Anchor>ab28f09d1e600bfd6b4003db2ffccf175</Anchor>
+    <Abstract>getter for the finite elements backend (see discretization) </Abstract>
+    <DeclaredIn>assembly.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>get_jac</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::assembly</Scope>
+    </TokenIdentifier>
+    <Path>a04158.html</Path>
+    <Anchor>a99dd4be211df6d50bb565c0535df597c</Anchor>
+    <Abstract>returns the Jacobian matrix computed in the quadrature points </Abstract>
+    <DeclaredIn>assembly.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>get_jac_det</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::assembly</Scope>
+    </TokenIdentifier>
+    <Path>a04158.html</Path>
+    <Anchor>a8682396e40ad10d0d30ef5bf848ee4f7</Anchor>
+    <Abstract>computes the jacobian determinant (i.e. the measure) in the quadrature points </Abstract>
+    <DeclaredIn>assembly.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>get_jac_inv</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::assembly</Scope>
+    </TokenIdentifier>
+    <Path>a04158.html</Path>
+    <Anchor>ab1ccf33c44672c25daf752bac7bf0ff3</Anchor>
+    <Abstract>returns the inverse of the Jacobian matrix computed in the quadrature points </Abstract>
+    <DeclaredIn>assembly.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>jac</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::assembly</Scope>
+    </TokenIdentifier>
+    <Path>a04158.html</Path>
+    <Anchor>a716e4a7343498c88037f946057282f19</Anchor>
+    <Abstract>returns the jacobian matrix as a non const reference </Abstract>
+    <DeclaredIn>assembly.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>jac_det</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::assembly</Scope>
+    </TokenIdentifier>
+    <Path>a04158.html</Path>
+    <Anchor>ac9d35c4a209a4f6977a822d7f501a6f0</Anchor>
+    <Abstract>returns the jacobian determinant as a non const reference </Abstract>
+    <DeclaredIn>assembly.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>jac_inv</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::assembly</Scope>
+    </TokenIdentifier>
+    <Path>a04158.html</Path>
+    <Anchor>a1642d6078a9ceca999ae8313e7b6fbe7</Anchor>
+    <Abstract>returns the jacobian inverse as a non const reference </Abstract>
+    <DeclaredIn>assembly.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::assembly_base</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::assembly_base</Scope>
+    </TokenIdentifier>
+    <Path>a04182.html</Path>
+    <Abstract>struct containing the grid information </Abstract>
+    <DeclaredIn>assembly_base.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>assembly_base</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::assembly_base</Scope>
+    </TokenIdentifier>
+    <Path>a04182.html</Path>
+    <Anchor>a222e6b7ed04684036479e002c94ecc9c</Anchor>
+    <Abstract>constructor taking the grid dimensions </Abstract>
+    <DeclaredIn>assembly_base.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>get_grid</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::assembly_base</Scope>
+    </TokenIdentifier>
+    <Path>a04182.html</Path>
+    <Anchor>a51c05010ef3df81937c4f017400316b7</Anchor>
+    <Abstract>getter for the grid </Abstract>
+    <DeclaredIn>assembly_base.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>get_grid_info</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::assembly_base</Scope>
+    </TokenIdentifier>
+    <Path>a04182.html</Path>
+    <Anchor>a665a3a0bf3587a268afa76ca89907fee</Anchor>
+    <Abstract>getter for the storage_info associated to the grid </Abstract>
+    <DeclaredIn>assembly_base.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>grid</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::assembly_base</Scope>
+    </TokenIdentifier>
+    <Path>a04182.html</Path>
+    <Anchor>a85683206048cafec8aecd00cfe5a795c</Anchor>
+    <Abstract>returns a non const reference to the grid </Abstract>
+    <DeclaredIn>assembly_base.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::assembly_cg</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::assembly_cg</Scope>
+    </TokenIdentifier>
+    <Path>a04198.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::assembly_dg</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::assembly_dg</Scope>
+    </TokenIdentifier>
+    <Path>a04202.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::b_spline</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::b_spline</Scope>
+    </TokenIdentifier>
+    <Path>a04546.html</Path>
+    <DeclaredIn>b_splines.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::b_spline&lt; order&lt; P... &gt; &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::b_spline&lt; order&lt; P... &gt; &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04550.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>b_spline</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::b_spline&lt; order&lt; P... &gt; &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04550.html</Path>
+    <Anchor>a007fbce0f9162ccf4598c61dc4c21fa6</Anchor>
+    <Abstract>constructor </Abstract>
+    <DeclaredIn>b_splines.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>getCardinality</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::b_spline&lt; order&lt; P... &gt; &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04550.html</Path>
+    <Anchor>aab2c9fff74402589579019c035649635</Anchor>
+    <DeclaredIn>b_splines.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>getValues</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::b_spline&lt; order&lt; P... &gt; &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04550.html</Path>
+    <Anchor>a49759c4a8f41d18b79802f1356d72922</Anchor>
+    <Abstract>compute the values of an operator on the basis functions, evaluate on quadrature points ...</Abstract>
+    <DeclaredIn>b_splines.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::b_spline&lt; order&lt; P... &gt; &gt;::functor_get_vals</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::b_spline&lt; order&lt; P... &gt; &gt;::functor_get_vals</Scope>
+    </TokenIdentifier>
+    <Path>a04558.html</Path>
+    <Abstract>functor to evaluate the B-spline basis on the quadrature points. </Abstract>
+    <DeclaredIn>b_splines.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::b_spline&lt; order&lt; P... &gt; &gt;::functor_get_vals::functor_assign_storage</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::b_spline&lt; order&lt; P... &gt; &gt;::functor_get_vals::functor_assign_storage</Scope>
+    </TokenIdentifier>
+    <Path>a04562.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::b_spline&lt; order&lt; P... &gt; &gt;::functor_get_vals::functor_assign_storage&lt; Id, Basis, gt::gt_integer_sequence&lt; ushort_t, Integers... &gt; &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::b_spline&lt; order&lt; P... &gt; &gt;::functor_get_vals::functor_assign_storage&lt; Id, Basis, gt::gt_integer_sequence&lt; ushort_t, Integers... &gt; &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04566.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::b_spline&lt; order&lt; P... &gt; &gt;::functor_get_vals::get_second</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::b_spline&lt; order&lt; P... &gt; &gt;::functor_get_vals::get_second</Scope>
+    </TokenIdentifier>
+    <Path>a04570.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::b_spline&lt; order&lt; P... &gt; &gt;::lambda_get_first</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::b_spline&lt; order&lt; P... &gt; &gt;::lambda_get_first</Scope>
+    </TokenIdentifier>
+    <Path>a04554.html</Path>
+    <Abstract>metafunction to get the first of two template arguments </Abstract>
+    <DeclaredIn>b_splines.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::basis_select</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::basis_select</Scope>
+    </TokenIdentifier>
+    <Path>a04334.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::basis_select&lt; 1, enumtype::Lagrange, enumtype::Hexa &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::basis_select&lt; 1, enumtype::Lagrange, enumtype::Hexa &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04350.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::basis_select&lt; 1, enumtype::Lagrange, enumtype::Quad &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::basis_select&lt; 1, enumtype::Lagrange, enumtype::Quad &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04370.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::basis_select&lt; 1, enumtype::Lagrange, enumtype::Tetra &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::basis_select&lt; 1, enumtype::Lagrange, enumtype::Tetra &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04358.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::basis_select&lt; 1, enumtype::Lagrange, enumtype::Tri &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::basis_select&lt; 1, enumtype::Lagrange, enumtype::Tri &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04378.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::basis_select&lt; order, enumtype::Lagrange, enumtype::Hexa &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::basis_select&lt; order, enumtype::Lagrange, enumtype::Hexa &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04354.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::basis_select&lt; order, enumtype::Lagrange, enumtype::Quad &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::basis_select&lt; order, enumtype::Lagrange, enumtype::Quad &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04366.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::basis_select&lt; order, enumtype::Lagrange, enumtype::Tetra &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::basis_select&lt; order, enumtype::Lagrange, enumtype::Tetra &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04362.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::basis_select&lt; order, enumtype::Lagrange, enumtype::Tri &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::basis_select&lt; order, enumtype::Lagrange, enumtype::Tri &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04374.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::basis_select&lt; P, enumtype::Legendre, enumtype::Hexa &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::basis_select&lt; P, enumtype::Legendre, enumtype::Hexa &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04338.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::basis_select&lt; P, enumtype::Legendre, enumtype::Line &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::basis_select&lt; P, enumtype::Legendre, enumtype::Line &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04346.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::basis_select&lt; P, enumtype::Legendre, enumtype::Quad &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::basis_select&lt; P, enumtype::Legendre, enumtype::Quad &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04342.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::bc_apply</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::bc_apply</Scope>
+    </TokenIdentifier>
+    <Path>a03766.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::bc_functor</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>gdl::bc_functor</Scope>
+    </TokenIdentifier>
+    <Path>a03778.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::bd_assembly</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::bd_assembly</Scope>
+    </TokenIdentifier>
+    <Path>a04222.html</Path>
+    <Abstract>Definition of the quantities needed for performing computations on the boundary. </Abstract>
+    <DeclaredIn>bd_assembly.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::boundary_cubature</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::boundary_cubature</Scope>
+    </TokenIdentifier>
+    <Path>a04330.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>lift</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::boundary_cubature</Scope>
+    </TokenIdentifier>
+    <Path>a04330.html</Path>
+    <Anchor>aedefc4f0678f4d8de8dfecce140478e8</Anchor>
+    <Abstract>returns the quadrature points of the face embedded in the original cell. </Abstract>
+    <DeclaredIn>cubature.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::boundary_shape</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::boundary_shape</Scope>
+    </TokenIdentifier>
+    <Path>a04382.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::boundary_shape&lt; FE&lt; Order, BasisType, enumtype::Hexa &gt; &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::boundary_shape&lt; FE&lt; Order, BasisType, enumtype::Hexa &gt; &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04386.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::boundary_shape&lt; FE&lt; Order, BasisType, enumtype::Line &gt; &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::boundary_shape&lt; FE&lt; Order, BasisType, enumtype::Line &gt; &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04402.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::boundary_shape&lt; FE&lt; Order, BasisType, enumtype::Quad &gt; &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::boundary_shape&lt; FE&lt; Order, BasisType, enumtype::Quad &gt; &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04394.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::boundary_shape&lt; FE&lt; Order, BasisType, enumtype::Tetra &gt; &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::boundary_shape&lt; FE&lt; Order, BasisType, enumtype::Tetra &gt; &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04390.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::boundary_shape&lt; FE&lt; Order, BasisType, enumtype::Tri &gt; &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::boundary_shape&lt; FE&lt; Order, BasisType, enumtype::Tri &gt; &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04398.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::BSplineCoeff</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::BSplineCoeff</Scope>
+    </TokenIdentifier>
+    <Path>a04502.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::BSplineCoeff&lt; Dim, order&lt; P... &gt;, I &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::BSplineCoeff&lt; Dim, order&lt; P... &gt;, I &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04506.html</Path>
+    <Abstract>struct containing ID and polynomial order </Abstract>
+    <DeclaredIn>b_splines.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::BSplineDerived</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::BSplineDerived</Scope>
+    </TokenIdentifier>
+    <Path>a04510.html</Path>
+    <Abstract>just to ease the notation </Abstract>
+    <DeclaredIn>b_splines.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::cell</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::cell</Scope>
+    </TokenIdentifier>
+    <Path>a04278.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::cg_solver</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::cg_solver</Scope>
+    </TokenIdentifier>
+    <Path>a04450.html</Path>
+    <DeclaredIn>linear_solver.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>solve</Name>
+      <APILanguage>unknown</APILanguage>
+      <Type>clm</Type>
+      <Scope>gdl::linear_solver&lt; cg_solver&lt; N_DOF0, N_DOF1, N_DOF2 &gt; &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04446.html</Path>
+    <Anchor>a97b9681cd324bb3bfdef62b90a185553</Anchor>
+    <Abstract>solve method implementation </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>solve_impl</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::cg_solver</Scope>
+    </TokenIdentifier>
+    <Path>a04450.html</Path>
+    <Anchor>a19206053ad51080f8021baaec6ea2377</Anchor>
+    <Abstract>solve method implementation </Abstract>
+    <DeclaredIn>linear_solver.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::combinations</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::combinations</Scope>
+    </TokenIdentifier>
+    <Path>a04466.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::create_grid</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::create_grid</Scope>
+    </TokenIdentifier>
+    <Path>a04602.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::create_grid&lt; enumtype::rectilinear &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::create_grid&lt; enumtype::rectilinear &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04610.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>instance</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::create_grid&lt; enumtype::rectilinear &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04610.html</Path>
+    <Anchor>a58a892bb6aa35eee4fc67ba444d87691</Anchor>
+    <Abstract>creates a rectilinear grid </Abstract>
+    <DeclaredIn>io.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::create_grid&lt; enumtype::regular &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::create_grid&lt; enumtype::regular &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04606.html</Path>
+    <Abstract>creates a regular grid </Abstract>
+    <DeclaredIn>io.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::create_layout</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::create_layout</Scope>
+    </TokenIdentifier>
+    <Path>a04206.html</Path>
+    <Abstract>metafunction for creating a gridtools::layout_map </Abstract>
+    <DeclaredIn>basis_functions.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::create_layout&lt; gt::gt_integer_sequence&lt; ushort_t, Id ... &gt; &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::create_layout&lt; gt::gt_integer_sequence&lt; ushort_t, Id ... &gt; &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04210.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::cubature</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::cubature</Scope>
+    </TokenIdentifier>
+    <Path>a04326.html</Path>
+    <Abstract>representation of the cubature rule </Abstract>
+    <DeclaredIn>cubature.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::evaluate_polynomial</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::evaluate_polynomial</Scope>
+    </TokenIdentifier>
+    <Path>a04426.html</Path>
+    <Abstract>helper metafunction to evaluate a multivariate polynomial of a given order (trivariate case) ...</Abstract>
+    <DeclaredIn>legendre.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::evaluate_polynomial&lt; 1, Order &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::evaluate_polynomial&lt; 1, Order &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04438.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::evaluate_polynomial&lt; 2, Order &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::evaluate_polynomial&lt; 2, Order &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04434.html</Path>
+    <Abstract>helper metafunction to evaluate a multivariate polynomial of a given order (bivariate case) ...</Abstract>
+    <DeclaredIn>legendre.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>apply</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::evaluate_polynomial&lt; 2, Order &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04434.html</Path>
+    <Anchor>a62a679326047b530a897149b4222a40a</Anchor>
+    <Abstract>does the actual evaluation </Abstract>
+    <DeclaredIn>legendre.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>derivative</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::evaluate_polynomial&lt; 2, Order &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04434.html</Path>
+    <Anchor>a40763c480a8882c5d5c1493e8b834cc3</Anchor>
+    <Abstract>evaluation of the derivative of the polynomial </Abstract>
+    <DeclaredIn>legendre.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::evaluate_polynomial&lt; 3, Order &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::evaluate_polynomial&lt; 3, Order &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04430.html</Path>
+    <Abstract>helper metafunction to evaluate a multivariate polynomial of a given order (trivariate case) ...</Abstract>
+    <DeclaredIn>legendre.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>apply</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::evaluate_polynomial&lt; 3, Order &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04430.html</Path>
+    <Anchor>aa9524d035c576950531ba6fbf2365d49</Anchor>
+    <Abstract>does the actual evaluation </Abstract>
+    <DeclaredIn>legendre.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>derivative</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::evaluate_polynomial&lt; 3, Order &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04430.html</Path>
+    <Anchor>afaf14fe0ecad4363fe7f32610b406a6c</Anchor>
+    <Abstract>evaluation of the derivative of the polynomial </Abstract>
+    <DeclaredIn>legendre.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::factorial</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::factorial</Scope>
+    </TokenIdentifier>
+    <Path>a04458.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::factorial&lt; 0 &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::factorial&lt; 0 &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04462.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::GenericBSpline</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::GenericBSpline</Scope>
+    </TokenIdentifier>
+    <Path>a04522.html</Path>
+    <Abstract>generic multivariate b-spline </Abstract>
+    <DeclaredIn>b_splines.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>GenericBSpline</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>instm</Type>
+      <Scope>gdl::GenericBSpline</Scope>
+    </TokenIdentifier>
+    <Path>a04522.html</Path>
+    <Anchor>a3e063369f54a5ab971ceae6de04af99c</Anchor>
+    <Abstract>Constructor given a multidimensional array of knots. </Abstract>
+    <DeclaredIn>b_splines.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>evaluate</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>instm</Type>
+      <Scope>gdl::GenericBSpline</Scope>
+    </TokenIdentifier>
+    <Path>a04522.html</Path>
+    <Anchor>ae7926c29333aa4e4d1da250195f63f88</Anchor>
+    <Abstract>evaluates all the basis on a list of points </Abstract>
+    <DeclaredIn>b_splines.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::GenericBSpline::multiplies_f::result</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::GenericBSpline::multiplies_f::result</Scope>
+    </TokenIdentifier>
+    <Path>a04530.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::get_val</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::get_val</Scope>
+    </TokenIdentifier>
+    <Path>a04514.html</Path>
+    <DeclaredIn>b_splines.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>operator()</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::get_val</Scope>
+    </TokenIdentifier>
+    <Path>a04514.html</Path>
+    <Anchor>aca6aea95c662f702b77b92f032f29f7d</Anchor>
+    <Abstract>evaluation operator </Abstract>
+    <DeclaredIn>b_splines.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::get_val::result</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::get_val::result</Scope>
+    </TokenIdentifier>
+    <Path>a04518.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::global_to_local_dof_translator</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::global_to_local_dof_translator</Scope>
+    </TokenIdentifier>
+    <Path>a04130.html</Path>
+    <Abstract>Global to local dof translation struct. </Abstract>
+    <DeclaredIn>assemble_storage.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>global_to_local_dof_translator</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::global_to_local_dof_translator</Scope>
+    </TokenIdentifier>
+    <Path>a04130.html</Path>
+    <Anchor>a19ebed35e9f60ca524371f38569dd3a5</Anchor>
+    <Abstract>constructor </Abstract>
+    <DeclaredIn>assemble_storage.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>apply</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::global_to_local_dof_translator</Scope>
+    </TokenIdentifier>
+    <Path>a04130.html</Path>
+    <Anchor>a31ca976ed0cf149354f0b469a06faeb6</Anchor>
+    <Abstract>translation method </Abstract>
+    <DeclaredIn>assemble_storage.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::grid_adjacency_rule_applier</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::grid_adjacency_rule_applier</Scope>
+    </TokenIdentifier>
+    <Path>a04118.html</Path>
+    <DeclaredIn>assemble_storage.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>apply</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::grid_adjacency_rule_applier</Scope>
+    </TokenIdentifier>
+    <Path>a04118.html</Path>
+    <Anchor>a9efc8737c501e0afa31736e1e4cee7b3</Anchor>
+    <Abstract>adjacency rule application method </Abstract>
+    <DeclaredIn>assemble_storage.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::halo_data</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>gdl::halo_data</Scope>
+    </TokenIdentifier>
+    <Path>a04126.html</Path>
+    <Abstract>Halo data storing structure. </Abstract>
+    <DeclaredIn>assemble_storage.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>halo_data</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>instm</Type>
+      <Scope>gdl::halo_data</Scope>
+    </TokenIdentifier>
+    <Path>a04126.html</Path>
+    <Anchor>a0dceb8bf213f557d53da8fd9f0da2a10</Anchor>
+    <Abstract>constructor </Abstract>
+    <DeclaredIn>assemble_storage.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::hexa_grid_adjacency_rule_applier</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::hexa_grid_adjacency_rule_applier</Scope>
+    </TokenIdentifier>
+    <Path>a04122.html</Path>
+    <DeclaredIn>assemble_storage.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>apply</Name>
+      <APILanguage>unknown</APILanguage>
+      <Type>clm</Type>
+      <Scope>gdl::grid_adjacency_rule_applier&lt; hexa_grid_adjacency_rule_applier&lt; BasisCardinality1D &gt; &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04118.html</Path>
+    <Anchor>a9efc8737c501e0afa31736e1e4cee7b3</Anchor>
+    <Abstract>adjacency rule application method </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>apply_impl</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::hexa_grid_adjacency_rule_applier</Scope>
+    </TokenIdentifier>
+    <Path>a04122.html</Path>
+    <Anchor>a351379ed8bba0c48c35846124c30e000</Anchor>
+    <Abstract>adjacency rule application method implementation (see grid_adjacency_rule_applier comment) ...</Abstract>
+    <DeclaredIn>assemble_storage.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::integration</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::integration</Scope>
+    </TokenIdentifier>
+    <Path>a03782.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::io_base</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::io_base</Scope>
+    </TokenIdentifier>
+    <Path>a04594.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::io_base&lt; Derived&lt; Storage, Args ... &gt; &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::io_base&lt; Derived&lt; Storage, Args ... &gt; &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04598.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::io_rectilinear</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::io_rectilinear</Scope>
+    </TokenIdentifier>
+    <Path>a04622.html</Path>
+    <Abstract>I/O class for rectilinear grids, i.e. structured grid with elements of different sizes. </Abstract>
+    <DeclaredIn>io.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::io_rectilinear&lt; Storage, LocalGrid &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::io_rectilinear&lt; Storage, LocalGrid &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04626.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>storage_t</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>tdef</Type>
+      <Scope>gdl::io_rectilinear&lt; Storage, LocalGrid &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04626.html</Path>
+    <Anchor>aecedb5e7e81c472f2870ea4d59f2224d</Anchor>
+    <Abstract>the type of the storage containing the grid points </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>super</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>tdef</Type>
+      <Scope>gdl::io_rectilinear&lt; Storage, LocalGrid &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04626.html</Path>
+    <Anchor>ac9061b51153841aea2ace9c7344fed07</Anchor>
+    <Abstract>the base class, see io_base </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>io_rectilinear</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::io_rectilinear&lt; Storage, LocalGrid &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04626.html</Path>
+    <Anchor>a2681c5f86e756add479b5a3da4dbada1</Anchor>
+    <Abstract>constructor given a storage (containing the grid points in a 5D array) and the local grid ...</Abstract>
+    <DeclaredIn>io.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>set_attribute_scalar</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::io_rectilinear&lt; Storage, LocalGrid &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04626.html</Path>
+    <Anchor>a0ccf989c9cbc38de926ded8fb6177edf</Anchor>
+    <Abstract>attaches scalar data to the grid </Abstract>
+    <DeclaredIn>io.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>set_attribute_vector</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::io_rectilinear&lt; Storage, LocalGrid &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04626.html</Path>
+    <Anchor>a3712f9c1ae911c76ca63e98244e11459</Anchor>
+    <Abstract>attaches vector data to the grid </Abstract>
+    <DeclaredIn>io.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>set_attribute_vector_on_face</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::io_rectilinear&lt; Storage, LocalGrid &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04626.html</Path>
+    <Anchor>a65888616614f022bc744d98038c44b05</Anchor>
+    <Abstract>attaches vector data to the faces of the grid (like the normals) </Abstract>
+    <DeclaredIn>io.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>set_information</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::io_rectilinear&lt; Storage, LocalGrid &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04626.html</Path>
+    <Anchor>a1a0458ce7ebad0add942f6a7511a45cd</Anchor>
+    <DeclaredIn>io.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::io_regular</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::io_regular</Scope>
+    </TokenIdentifier>
+    <Path>a04614.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::io_regular&lt; Storage &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::io_regular&lt; Storage &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04618.html</Path>
+    <DeclaredIn>io.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>set_attribute_scalar</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::io_regular&lt; Storage &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04618.html</Path>
+    <Anchor>a49f6d1971f6ea0a9070e548c636f441b</Anchor>
+    <Abstract>attach scalar data to the grid </Abstract>
+    <DeclaredIn>io.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>set_attribute_vector</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::io_regular&lt; Storage &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04618.html</Path>
+    <Anchor>a7c4fcea89030af0982bedde14770cbf6</Anchor>
+    <Abstract>attach vector data to the grid </Abstract>
+    <DeclaredIn>io.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::legendre</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::legendre</Scope>
+    </TokenIdentifier>
+    <Path>a04442.html</Path>
+    <Abstract>implementation of Legendre basis functions in 2D and 3D </Abstract>
+    <DeclaredIn>legendre.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>getValues</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::legendre</Scope>
+    </TokenIdentifier>
+    <Path>a04442.html</Path>
+    <Anchor>a3489b164ec6d0825ffb94642b15eb1b5</Anchor>
+    <Abstract>compute the values of an operator on the basis functions, evaluated on quadrature points ...</Abstract>
+    <DeclaredIn>legendre.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>getCardinality</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::legendre</Scope>
+    </TokenIdentifier>
+    <Path>a04442.html</Path>
+    <Anchor>acbea4a26e3ab09ff1c6c9b6093eb1b46</Anchor>
+    <Abstract>returns the number of basis functions </Abstract>
+    <DeclaredIn>legendre.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::linear_solver</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::linear_solver</Scope>
+    </TokenIdentifier>
+    <Path>a04446.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>solve</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::linear_solver</Scope>
+    </TokenIdentifier>
+    <Path>a04446.html</Path>
+    <Anchor>a97b9681cd324bb3bfdef62b90a185553</Anchor>
+    <Abstract>solve method implementation </Abstract>
+    <DeclaredIn>linear_solver.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::nest_loop</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::nest_loop</Scope>
+    </TokenIdentifier>
+    <Path>a04574.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::nest_loop&lt; ArrayKnots, Quad, Storage, InnerFunctor, Range1 &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::nest_loop&lt; ArrayKnots, Quad, Storage, InnerFunctor, Range1 &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04578.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::nest_loop&lt; ArrayKnots, Quad, Storage, InnerFunctor, Range1, Range2, Range3 &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::nest_loop&lt; ArrayKnots, Quad, Storage, InnerFunctor, Range1, Range2, Range3 &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04582.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::nest_loop&lt; ArrayKnots, Quad, Storage, InnerFunctor, Range2, Range3 &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::nest_loop&lt; ArrayKnots, Quad, Storage, InnerFunctor, Range2, Range3 &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04586.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::nest_loop&lt; ArrayKnots, Quad, Storage, InnerFunctor, static_int&lt; I &gt;, Range3 &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::nest_loop&lt; ArrayKnots, Quad, Storage, InnerFunctor, static_int&lt; I &gt;, Range3 &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04590.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::order</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::order</Scope>
+    </TokenIdentifier>
+    <Path>a04454.html</Path>
+    <DeclaredIn>order.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::pair_indexing</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::pair_indexing</Scope>
+    </TokenIdentifier>
+    <Path>a04630.html</Path>
+    <Abstract>index pair to global position index translation struct </Abstract>
+    <DeclaredIn>indexing.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::parametric_space</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::parametric_space</Scope>
+    </TokenIdentifier>
+    <Path>a04534.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::parametric_space&lt; order&lt; P ... &gt; &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::parametric_space&lt; order&lt; P ... &gt; &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04538.html</Path>
+    <Abstract>class holding the parametric space </Abstract>
+    <DeclaredIn>b_splines.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::parametric_space&lt; order&lt; P ... &gt; &gt;::assign_knots</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>gdl::parametric_space&lt; order&lt; P ... &gt; &gt;::assign_knots</Scope>
+    </TokenIdentifier>
+    <Path>a04542.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::reference_element</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::reference_element</Scope>
+    </TokenIdentifier>
+    <Path>a04218.html</Path>
+    <Abstract>class containing information about the reference element </Abstract>
+    <DeclaredIn>basis_functions.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>layout_t</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>tdef</Type>
+      <Scope>gdl::reference_element</Scope>
+    </TokenIdentifier>
+    <Path>a04218.html</Path>
+    <Anchor>a92dde927eee8ce372ef1ac869f33b842</Anchor>
+    <Abstract>determining the order of the local dofs </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>basis</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::reference_element</Scope>
+    </TokenIdentifier>
+    <Path>a04218.html</Path>
+    <Anchor>a5e14b24375ff33a33c84ab7679188e68</Anchor>
+    <Abstract>returns the basis functions type for this element, see enumtype::Basis </Abstract>
+    <DeclaredIn>basis_functions.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>basis_cardinality</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::reference_element</Scope>
+    </TokenIdentifier>
+    <Path>a04218.html</Path>
+    <Anchor>a101ae4ee9caad6bd5b7035f31e0f058f</Anchor>
+    <Abstract>returns the number of degrees of freedom contained in this element type </Abstract>
+    <DeclaredIn>basis_functions.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>hex_basis</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::reference_element</Scope>
+    </TokenIdentifier>
+    <Path>a04218.html</Path>
+    <Anchor>a7ebdf0c74c7f7a6ca3fccf450270ee8d</Anchor>
+    <Abstract>copmuting the basis functions and returning them </Abstract>
+    <DeclaredIn>basis_functions.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>num_nodes</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::reference_element</Scope>
+    </TokenIdentifier>
+    <Path>a04218.html</Path>
+    <Anchor>a287b9332198c9553c192d3abc99244e2</Anchor>
+    <Abstract>returns the number of nodes associated to the cell used by this finite element (the information comes...</Abstract>
+    <DeclaredIn>basis_functions.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>order</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::reference_element</Scope>
+    </TokenIdentifier>
+    <Path>a04218.html</Path>
+    <Anchor>a6744545d500d799d5eb119033d8dbd94</Anchor>
+    <Abstract>returns the order of the basis </Abstract>
+    <DeclaredIn>basis_functions.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>shape</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::reference_element</Scope>
+    </TokenIdentifier>
+    <Path>a04218.html</Path>
+    <Anchor>a76f307c1dfe6d3a0554f58a8e93bec23</Anchor>
+    <Abstract>returns the shape type of the basis, see enumtype::Shape </Abstract>
+    <DeclaredIn>basis_functions.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>space_dim</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::reference_element</Scope>
+    </TokenIdentifier>
+    <Path>a04218.html</Path>
+    <Anchor>ae02bb8b0605839c4f907c3d3484413c9</Anchor>
+    <Abstract>returns number the space dimensions for this element </Abstract>
+    <DeclaredIn>basis_functions.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::residual</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>gdl::residual</Scope>
+    </TokenIdentifier>
+    <Path>a03774.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::shape_property</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::shape_property</Scope>
+    </TokenIdentifier>
+    <Path>a04282.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::shape_property&lt; enumtype::Hexa &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::shape_property&lt; enumtype::Hexa &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04286.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::shape_property&lt; enumtype::Hexa &gt;::normal</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::shape_property&lt; enumtype::Hexa &gt;::normal</Scope>
+    </TokenIdentifier>
+    <Path>a04298.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::shape_property&lt; enumtype::Hexa &gt;::opposite</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::shape_property&lt; enumtype::Hexa &gt;::opposite</Scope>
+    </TokenIdentifier>
+    <Path>a04302.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::shape_property&lt; enumtype::Hexa &gt;::tangent_u</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::shape_property&lt; enumtype::Hexa &gt;::tangent_u</Scope>
+    </TokenIdentifier>
+    <Path>a04290.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::shape_property&lt; enumtype::Hexa &gt;::tangent_v</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::shape_property&lt; enumtype::Hexa &gt;::tangent_v</Scope>
+    </TokenIdentifier>
+    <Path>a04294.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::shape_property&lt; enumtype::Line &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::shape_property&lt; enumtype::Line &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04318.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::shape_property&lt; enumtype::Point &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::shape_property&lt; enumtype::Point &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04322.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::shape_property&lt; enumtype::Quad &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::shape_property&lt; enumtype::Quad &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04310.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::shape_property&lt; enumtype::Tetra &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::shape_property&lt; enumtype::Tetra &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04306.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::shape_property&lt; enumtype::Tri &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::shape_property&lt; enumtype::Tri &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04314.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::shape_select</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::shape_select</Scope>
+    </TokenIdentifier>
+    <Path>a04254.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::shape_select&lt; order, enumtype::Hexa &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::shape_select&lt; order, enumtype::Hexa &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04258.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::shape_select&lt; order, enumtype::Line &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::shape_select&lt; order, enumtype::Line &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04274.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::shape_select&lt; order, enumtype::Quad &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::shape_select&lt; order, enumtype::Quad &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04266.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::shape_select&lt; order, enumtype::Tetra &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::shape_select&lt; order, enumtype::Tetra &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04262.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::shape_select&lt; order, enumtype::Tri &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::shape_select&lt; order, enumtype::Tri &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04270.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::tensor_product_element</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::tensor_product_element</Scope>
+    </TokenIdentifier>
+    <Path>a04470.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::zero</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::zero</Scope>
+    </TokenIdentifier>
+    <Path>a04058.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::advection</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::advection</Scope>
+    </TokenIdentifier>
+    <Path>a03858.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>jac_det</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>tdef</Type>
+      <Scope>gdl::functors::advection</Scope>
+    </TokenIdentifier>
+    <Path>a03858.html</Path>
+    <Anchor>a4e021159b4048da9e32afde07567acc1</Anchor>
+    <Abstract>[gt::accessors] </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>Do</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::functors::advection</Scope>
+    </TokenIdentifier>
+    <Path>a03858.html</Path>
+    <Anchor>a9d4e9e047672399807f94e12cc606f4e</Anchor>
+    <Abstract>[gt::accessors] </Abstract>
+    <DeclaredIn>advection.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::apply_dirichlet_boundary_conditions_bottom</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::apply_dirichlet_boundary_conditions_bottom</Scope>
+    </TokenIdentifier>
+    <Path>a03834.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::apply_dirichlet_boundary_conditions_front</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::apply_dirichlet_boundary_conditions_front</Scope>
+    </TokenIdentifier>
+    <Path>a03846.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::apply_dirichlet_boundary_conditions_left</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::apply_dirichlet_boundary_conditions_left</Scope>
+    </TokenIdentifier>
+    <Path>a03838.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::apply_dirichlet_boundary_conditions_rear</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::apply_dirichlet_boundary_conditions_rear</Scope>
+    </TokenIdentifier>
+    <Path>a03850.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::apply_dirichlet_boundary_conditions_right</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::apply_dirichlet_boundary_conditions_right</Scope>
+    </TokenIdentifier>
+    <Path>a03842.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::apply_dirichlet_boundary_conditions_top</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::apply_dirichlet_boundary_conditions_top</Scope>
+    </TokenIdentifier>
+    <Path>a03830.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::assemble</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::assemble</Scope>
+    </TokenIdentifier>
+    <Path>a03898.html</Path>
+    <DeclaredIn>assembly_functors.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::assign</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::assign</Scope>
+    </TokenIdentifier>
+    <Path>a03922.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::assign&lt; 3, Value &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::assign&lt; 3, Value &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a03926.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::assign&lt; 4, Value &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::assign&lt; 4, Value &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a03930.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::assign&lt; 5, Value &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::assign&lt; 5, Value &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a03934.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::bassi_rebay</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::bassi_rebay</Scope>
+    </TokenIdentifier>
+    <Path>a03970.html</Path>
+    <DeclaredIn>dg_fluxes.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::bd_integrate</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::bd_integrate</Scope>
+    </TokenIdentifier>
+    <Path>a03962.html</Path>
+    <Abstract>integrate on face </Abstract>
+    <DeclaredIn>bd_assembly_functors.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>Do</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::functors::bd_integrate</Scope>
+    </TokenIdentifier>
+    <Path>a03962.html</Path>
+    <Anchor>a382ca230eb22b7ef0487943b1af76a17</Anchor>
+    <Abstract>compute the integral of a vector </Abstract>
+    <DeclaredIn>bd_assembly_functors.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::bd_mass</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::bd_mass</Scope>
+    </TokenIdentifier>
+    <Path>a03942.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>Do</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::functors::bd_mass</Scope>
+    </TokenIdentifier>
+    <Path>a03942.html</Path>
+    <Anchor>a834c1498b9ea3c4c9b284cd2e1d153e0</Anchor>
+    <Abstract>compute the integral on the boundary of a field times the normals </Abstract>
+    <DeclaredIn>bd_assembly_functors.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::bd_mass_uv</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::bd_mass_uv</Scope>
+    </TokenIdentifier>
+    <Path>a03946.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>Do</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::functors::bd_mass_uv</Scope>
+    </TokenIdentifier>
+    <Path>a03946.html</Path>
+    <Anchor>ac5e1eb1b34caf97c6228385753c6a7e0</Anchor>
+    <Abstract>compute the integral on the boundary of a field times the normals </Abstract>
+    <DeclaredIn>bd_assembly_functors.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::bd_transform</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::bd_transform</Scope>
+    </TokenIdentifier>
+    <Path>a03994.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::compute_face_normals</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::compute_face_normals</Scope>
+    </TokenIdentifier>
+    <Path>a03958.html</Path>
+    <DeclaredIn>bd_assembly_functors.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>Do</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::functors::compute_face_normals</Scope>
+    </TokenIdentifier>
+    <Path>a03958.html</Path>
+    <Anchor>a01455fd142075885ed4fa60ec6cb4482</Anchor>
+    <Abstract>compute the normal vectors in the face quadrature points </Abstract>
+    <DeclaredIn>bd_assembly_functors.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::copy_vector</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::copy_vector</Scope>
+    </TokenIdentifier>
+    <Path>a03966.html</Path>
+    <DeclaredIn>copy_vector.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::cubature_point_grid_generation</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::cubature_point_grid_generation</Scope>
+    </TokenIdentifier>
+    <Path>a03810.html</Path>
+    <Abstract>[cubature_point_grid_generation] </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::det</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::det</Scope>
+    </TokenIdentifier>
+    <Path>a03870.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::det_impl</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::det_impl</Scope>
+    </TokenIdentifier>
+    <Path>a03866.html</Path>
+    <DeclaredIn>assembly_functors.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::det_impl&lt; Geometry, 2 &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::det_impl&lt; Geometry, 2 &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a03878.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::det_impl&lt; Geometry, 3 &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::det_impl&lt; Geometry, 3 &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a03874.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::evaluate</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>gdl::functors::evaluate</Scope>
+    </TokenIdentifier>
+    <Path>a03982.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::function_evaluation</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::function_evaluation</Scope>
+    </TokenIdentifier>
+    <Path>a03814.html</Path>
+    <Abstract>[cubature_point_grid_generation] </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::global_assemble</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>gdl::functors::global_assemble</Scope>
+    </TokenIdentifier>
+    <Path>a04478.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::global_assemble_no_if</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>gdl::functors::global_assemble_no_if</Scope>
+    </TokenIdentifier>
+    <Path>a04482.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::global_vector_assemble_no_if</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>gdl::functors::global_vector_assemble_no_if</Scope>
+    </TokenIdentifier>
+    <Path>a04486.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::hexahedron_assemble</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::hexahedron_assemble</Scope>
+    </TokenIdentifier>
+    <Path>a03906.html</Path>
+    <DeclaredIn>hexahedron_assemble.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::hexahedron_matrix_distribute</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::hexahedron_matrix_distribute</Scope>
+    </TokenIdentifier>
+    <Path>a03914.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::hexahedron_vector_assemble</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::hexahedron_vector_assemble</Scope>
+    </TokenIdentifier>
+    <Path>a03910.html</Path>
+    <DeclaredIn>hexahedron_vector_assemble.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::hexahedron_vector_distribute</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::hexahedron_vector_distribute</Scope>
+    </TokenIdentifier>
+    <Path>a03918.html</Path>
+    <DeclaredIn>hexahedron_vector_distribute.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::inv</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::inv</Scope>
+    </TokenIdentifier>
+    <Path>a03886.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>jac</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>tdef</Type>
+      <Scope>gdl::functors::inv</Scope>
+    </TokenIdentifier>
+    <Path>a03886.html</Path>
+    <Anchor>aea47c67cd89f1b8472521b4ae5bda3be</Anchor>
+    <Abstract>[arguments_inv] </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>Do</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::functors::inv</Scope>
+    </TokenIdentifier>
+    <Path>a03886.html</Path>
+    <Anchor>a4d46026809e4c8add56a1ac354039d42</Anchor>
+    <Abstract>[arguments_inv] </Abstract>
+    <DeclaredIn>assembly_functors.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::inv_impl</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::inv_impl</Scope>
+    </TokenIdentifier>
+    <Path>a03882.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::inv_impl&lt; Geometry, 2 &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::inv_impl&lt; Geometry, 2 &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a03894.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>Do</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::functors::inv</Scope>
+    </TokenIdentifier>
+    <Path>a03886.html</Path>
+    <Anchor>a4d46026809e4c8add56a1ac354039d42</Anchor>
+    <Abstract>[arguments_inv] </Abstract>
+    <DeclaredIn>assembly_functors.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::inv_impl&lt; Geometry, 3 &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::inv_impl&lt; Geometry, 3 &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a03890.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>Do</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::functors::inv</Scope>
+    </TokenIdentifier>
+    <Path>a03886.html</Path>
+    <Anchor>a4d46026809e4c8add56a1ac354039d42</Anchor>
+    <Abstract>[arguments_inv] </Abstract>
+    <DeclaredIn>assembly_functors.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::lax_friedrich</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::lax_friedrich</Scope>
+    </TokenIdentifier>
+    <Path>a03974.html</Path>
+    <DeclaredIn>dg_fluxes.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::mass</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>gdl::functors::mass</Scope>
+    </TokenIdentifier>
+    <Path>a03998.html</Path>
+    <Abstract>[integration] </Abstract>
+    <DeclaredIn>mass.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::matvec</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>gdl::functors::matvec</Scope>
+    </TokenIdentifier>
+    <Path>a04034.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::matvec_BdxBdxBd</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>gdl::functors::matvec_BdxBdxBd</Scope>
+    </TokenIdentifier>
+    <Path>a04042.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::matvec_VolxBdxVol</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>gdl::functors::matvec_VolxBdxVol</Scope>
+    </TokenIdentifier>
+    <Path>a04038.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::measure</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::measure</Scope>
+    </TokenIdentifier>
+    <Path>a03950.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::measure&lt; Geometry, 1 &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::measure&lt; Geometry, 1 &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a03954.html</Path>
+    <Abstract>compute the measure for the surface integral </Abstract>
+    <DeclaredIn>bd_assembly_functors.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::mult_operator</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::mult_operator</Scope>
+    </TokenIdentifier>
+    <Path>a04010.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::not_normalized_transform</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>gdl::functors::not_normalized_transform</Scope>
+    </TokenIdentifier>
+    <Path>a03826.html</Path>
+    <Abstract>[quadratic_boundary_value] </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::partial_hexahedron_assembled_reduction</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::partial_hexahedron_assembled_reduction</Scope>
+    </TokenIdentifier>
+    <Path>a04050.html</Path>
+    <DeclaredIn>reduction.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::project_on_boundary</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>gdl::functors::project_on_boundary</Scope>
+    </TokenIdentifier>
+    <Path>a04046.html</Path>
+    <DeclaredIn>project_on_boundary.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::quadratic_boundary_value</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>gdl::functors::quadratic_boundary_value</Scope>
+    </TokenIdentifier>
+    <Path>a03822.html</Path>
+    <Abstract>[quartic_source] </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::quartic_source</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>gdl::functors::quartic_source</Scope>
+    </TokenIdentifier>
+    <Path>a03818.html</Path>
+    <Abstract>[function_evaluation] </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::scalvec</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::scalvec</Scope>
+    </TokenIdentifier>
+    <Path>a04014.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::scalvec&lt; 4, Operator &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::scalvec&lt; 4, Operator &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04018.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::stiffness</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::stiffness</Scope>
+    </TokenIdentifier>
+    <Path>a04054.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::sub_operator</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::sub_operator</Scope>
+    </TokenIdentifier>
+    <Path>a04006.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::sum_operator</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::sum_operator</Scope>
+    </TokenIdentifier>
+    <Path>a04002.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::transform</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>gdl::functors::transform</Scope>
+    </TokenIdentifier>
+    <Path>a03986.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::transform_vec</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>gdl::functors::transform_vec</Scope>
+    </TokenIdentifier>
+    <Path>a03990.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::uniform</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::uniform</Scope>
+    </TokenIdentifier>
+    <Path>a03902.html</Path>
+    <DeclaredIn>assembly_functors.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::update_bd_jac</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::update_bd_jac</Scope>
+    </TokenIdentifier>
+    <Path>a03938.html</Path>
+    <DeclaredIn>bd_assembly_functors.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::update_jac</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::update_jac</Scope>
+    </TokenIdentifier>
+    <Path>a03862.html</Path>
+    <DeclaredIn>assembly_functors.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::upwind</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>gdl::functors::upwind</Scope>
+    </TokenIdentifier>
+    <Path>a03978.html</Path>
+    <DeclaredIn>dg_fluxes.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::vecvec</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::vecvec</Scope>
+    </TokenIdentifier>
+    <Path>a04022.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::vecvec&lt; 4, Operator &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::vecvec&lt; 4, Operator &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04026.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::functors::vecvec&lt; 5, Operator &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::functors::vecvec&lt; 5, Operator &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04030.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::impl_::layout_from_dim</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::impl_::layout_from_dim</Scope>
+    </TokenIdentifier>
+    <Path>a04214.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::intrepid::boundary_cub</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::intrepid::boundary_cub</Scope>
+    </TokenIdentifier>
+    <Path>a04418.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>update_boundary_cub</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>instm</Type>
+      <Scope>gdl::intrepid::boundary_cub</Scope>
+    </TokenIdentifier>
+    <Path>a04418.html</Path>
+    <Anchor>ab335270efaff4cf9a29db49e6dcbec54</Anchor>
+    <Abstract>performs the lift of the reference subcell (e.g. unit quadrilateral) cubature points to a specific re...</Abstract>
+    <DeclaredIn>intrepid.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::intrepid::boundary_discr</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::intrepid::boundary_discr</Scope>
+    </TokenIdentifier>
+    <Path>a04422.html</Path>
+    <Abstract>discretization of the boundary entities </Abstract>
+    <DeclaredIn>intrepid.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>compute</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>instm</Type>
+      <Scope>gdl::intrepid::boundary_discr</Scope>
+    </TokenIdentifier>
+    <Path>a04422.html</Path>
+    <Anchor>aece60986dd0ba2968de17bc56893aa33</Anchor>
+    <Abstract>computing the operator passed as input applied to all the basis functions </Abstract>
+    <DeclaredIn>intrepid.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>compute_normals</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>instm</Type>
+      <Scope>gdl::intrepid::boundary_discr</Scope>
+    </TokenIdentifier>
+    <Path>a04422.html</Path>
+    <Anchor>ae72d382b4c0eb93b730ec7713208bb2a</Anchor>
+    <Abstract>get the normals to the faces of the reference element </Abstract>
+    <DeclaredIn>intrepid.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>compute_tangents</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>instm</Type>
+      <Scope>gdl::intrepid::boundary_discr</Scope>
+    </TokenIdentifier>
+    <Path>a04422.html</Path>
+    <Anchor>a5691c363b6fe1ebe98c1e3d2fea6014f</Anchor>
+    <Abstract>get the 2 tangents on the faces of the reference element </Abstract>
+    <DeclaredIn>intrepid.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>n_boundaries</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>instm</Type>
+      <Scope>gdl::intrepid::boundary_discr</Scope>
+    </TokenIdentifier>
+    <Path>a04422.html</Path>
+    <Anchor>a606a2c236c845e1da146b87981b879d7</Anchor>
+    <Abstract>returns the number of boundaries for which the discretization is defined (normals, tangents, integration rules, ...) </Abstract>
+    <DeclaredIn>intrepid.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>ref_normals</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>instm</Type>
+      <Scope>gdl::intrepid::boundary_discr</Scope>
+    </TokenIdentifier>
+    <Path>a04422.html</Path>
+    <Anchor>aa85a3308767d0d353b87ff2fde3b53e0</Anchor>
+    <Abstract>returns the normals to the element boundaries in the reference configuration </Abstract>
+    <DeclaredIn>intrepid.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::intrepid::discretization</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::intrepid::discretization</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Abstract>defining the finite element discretization </Abstract>
+    <DeclaredIn>intrepid.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>compute</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::intrepid::discretization</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>a79fd100ccc3f922a503fbbfd16c83891</Anchor>
+    <Abstract>computing the operator passed as input applied to all the basis functions </Abstract>
+    <DeclaredIn>intrepid.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>cub_points</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::intrepid::discretization</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>acded9be56b4207799b51a6082044a7cb</Anchor>
+    <Abstract>returning a non const reference to the cubature points </Abstract>
+    <DeclaredIn>intrepid.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>cub_weights</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::intrepid::discretization</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>af5aac8222f18347f51bd0adc6eda1646</Anchor>
+    <Abstract>returning a non const reference to the cubature weights </Abstract>
+    <DeclaredIn>intrepid.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>get_cub_points</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::intrepid::discretization</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>aac3fa4bf5b7443275667c9b1ddf46e2f</Anchor>
+    <Abstract>returning a const reference to the cubature points </Abstract>
+    <DeclaredIn>intrepid.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>get_cub_weights</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::intrepid::discretization</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>a829b097fc63ce551e67b6da6e68be44c</Anchor>
+    <Abstract>returning a const reference to the cubature weights </Abstract>
+    <DeclaredIn>intrepid.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>grad</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::intrepid::discretization</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>a00b4f0b436d4a7eea2ffb19c88ea7cea</Anchor>
+    <Abstract>returning a non const reference to the gradient of the basis functions in the cubature points ...</Abstract>
+    <DeclaredIn>intrepid.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>grad</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::intrepid::discretization</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>a1128a493b6d119107373fd3b68d30ed4</Anchor>
+    <Abstract>returning a const reference to the gradient of the basis functions in the cubature points ...</Abstract>
+    <DeclaredIn>intrepid.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>val</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::intrepid::discretization</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>a7b4bed54a21b2f791da0f71eec48cc28</Anchor>
+    <Abstract>returning a non const reference to the value of the basis functions in the cubature points ...</Abstract>
+    <DeclaredIn>intrepid.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>val</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::intrepid::discretization</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>ad7adeede49f6323708a719a532c2e06c</Anchor>
+    <Abstract>returning a const reference to the value of the basis functions in the cubature points ...</Abstract>
+    <DeclaredIn>intrepid.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>basis_cardinality</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::intrepid::discretization</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>a8f5e5b00e4d78e0a6b26edfae28b77e7</Anchor>
+    <Abstract>returning the number of basis function for the selected discretization </Abstract>
+    <DeclaredIn>intrepid.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::intrepid::geometry</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::intrepid::geometry</Scope>
+    </TokenIdentifier>
+    <Path>a04414.html</Path>
+    <Abstract>discretization of the local-to-global map, structured mesh case (allowing dof ordering) ...</Abstract>
+    <DeclaredIn>intrepid.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>geometry</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::intrepid::geometry</Scope>
+    </TokenIdentifier>
+    <Path>a04414.html</Path>
+    <Anchor>ad55a0a346743c6bbbca938154c8ffc92</Anchor>
+    <Abstract>constructor </Abstract>
+    <DeclaredIn>intrepid.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>compute</Name>
+      <APILanguage>unknown</APILanguage>
+      <Type>instm</Type>
+      <Scope>gdl::intrepid::discretization&lt; GeoMap, Cubature &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>a79fd100ccc3f922a503fbbfd16c83891</Anchor>
+    <Abstract>computing the operator passed as input applied to all the basis functions </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>cub_points</Name>
+      <APILanguage>unknown</APILanguage>
+      <Type>instm</Type>
+      <Scope>gdl::intrepid::discretization&lt; GeoMap, Cubature &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>acded9be56b4207799b51a6082044a7cb</Anchor>
+    <Abstract>returning a non const reference to the cubature points </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>cub_weights</Name>
+      <APILanguage>unknown</APILanguage>
+      <Type>instm</Type>
+      <Scope>gdl::intrepid::discretization&lt; GeoMap, Cubature &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>af5aac8222f18347f51bd0adc6eda1646</Anchor>
+    <Abstract>returning a non const reference to the cubature weights </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>get_cub_points</Name>
+      <APILanguage>unknown</APILanguage>
+      <Type>instm</Type>
+      <Scope>gdl::intrepid::discretization&lt; GeoMap, Cubature &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>aac3fa4bf5b7443275667c9b1ddf46e2f</Anchor>
+    <Abstract>returning a const reference to the cubature points </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>get_cub_weights</Name>
+      <APILanguage>unknown</APILanguage>
+      <Type>instm</Type>
+      <Scope>gdl::intrepid::discretization&lt; GeoMap, Cubature &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>a829b097fc63ce551e67b6da6e68be44c</Anchor>
+    <Abstract>returning a const reference to the cubature weights </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>grad</Name>
+      <APILanguage>unknown</APILanguage>
+      <Type>instm</Type>
+      <Scope>gdl::intrepid::discretization&lt; GeoMap, Cubature &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>a00b4f0b436d4a7eea2ffb19c88ea7cea</Anchor>
+    <Abstract>returning a non const reference to the gradient of the basis functions in the cubature points ...</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>grad</Name>
+      <APILanguage>unknown</APILanguage>
+      <Type>instm</Type>
+      <Scope>gdl::intrepid::discretization&lt; GeoMap, Cubature &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>a1128a493b6d119107373fd3b68d30ed4</Anchor>
+    <Abstract>returning a const reference to the gradient of the basis functions in the cubature points ...</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>val</Name>
+      <APILanguage>unknown</APILanguage>
+      <Type>instm</Type>
+      <Scope>gdl::intrepid::discretization&lt; GeoMap, Cubature &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>a7b4bed54a21b2f791da0f71eec48cc28</Anchor>
+    <Abstract>returning a non const reference to the value of the basis functions in the cubature points ...</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>val</Name>
+      <APILanguage>unknown</APILanguage>
+      <Type>instm</Type>
+      <Scope>gdl::intrepid::discretization&lt; GeoMap, Cubature &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>ad7adeede49f6323708a719a532c2e06c</Anchor>
+    <Abstract>returning a const reference to the value of the basis functions in the cubature points ...</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>basis_cardinality</Name>
+      <APILanguage>unknown</APILanguage>
+      <Type>clm</Type>
+      <Scope>gdl::intrepid::discretization&lt; GeoMap, Cubature &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>a8f5e5b00e4d78e0a6b26edfae28b77e7</Anchor>
+    <Abstract>returning the number of basis function for the selected discretization </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gdl::intrepid::unstructured_geometry</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gdl::intrepid::unstructured_geometry</Scope>
+    </TokenIdentifier>
+    <Path>a04410.html</Path>
+    <Abstract>discretization of the local-to-global map </Abstract>
+    <DeclaredIn>intrepid.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>unstructured_geometry</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>func</Type>
+      <Scope>gdl::intrepid::unstructured_geometry</Scope>
+    </TokenIdentifier>
+    <Path>a04410.html</Path>
+    <Anchor>af2715d2509d0c1fcc632753870911ab6</Anchor>
+    <Abstract>constructor </Abstract>
+    <DeclaredIn>intrepid.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>compute</Name>
+      <APILanguage>unknown</APILanguage>
+      <Type>instm</Type>
+      <Scope>gdl::intrepid::discretization&lt; GeoMap, Cubature &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>a79fd100ccc3f922a503fbbfd16c83891</Anchor>
+    <Abstract>computing the operator passed as input applied to all the basis functions </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>cub_points</Name>
+      <APILanguage>unknown</APILanguage>
+      <Type>instm</Type>
+      <Scope>gdl::intrepid::discretization&lt; GeoMap, Cubature &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>acded9be56b4207799b51a6082044a7cb</Anchor>
+    <Abstract>returning a non const reference to the cubature points </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>cub_weights</Name>
+      <APILanguage>unknown</APILanguage>
+      <Type>instm</Type>
+      <Scope>gdl::intrepid::discretization&lt; GeoMap, Cubature &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>af5aac8222f18347f51bd0adc6eda1646</Anchor>
+    <Abstract>returning a non const reference to the cubature weights </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>get_cub_points</Name>
+      <APILanguage>unknown</APILanguage>
+      <Type>instm</Type>
+      <Scope>gdl::intrepid::discretization&lt; GeoMap, Cubature &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>aac3fa4bf5b7443275667c9b1ddf46e2f</Anchor>
+    <Abstract>returning a const reference to the cubature points </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>get_cub_weights</Name>
+      <APILanguage>unknown</APILanguage>
+      <Type>instm</Type>
+      <Scope>gdl::intrepid::discretization&lt; GeoMap, Cubature &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>a829b097fc63ce551e67b6da6e68be44c</Anchor>
+    <Abstract>returning a const reference to the cubature weights </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>grad</Name>
+      <APILanguage>unknown</APILanguage>
+      <Type>instm</Type>
+      <Scope>gdl::intrepid::discretization&lt; GeoMap, Cubature &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>a00b4f0b436d4a7eea2ffb19c88ea7cea</Anchor>
+    <Abstract>returning a non const reference to the gradient of the basis functions in the cubature points ...</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>grad</Name>
+      <APILanguage>unknown</APILanguage>
+      <Type>instm</Type>
+      <Scope>gdl::intrepid::discretization&lt; GeoMap, Cubature &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>a1128a493b6d119107373fd3b68d30ed4</Anchor>
+    <Abstract>returning a const reference to the gradient of the basis functions in the cubature points ...</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>val</Name>
+      <APILanguage>unknown</APILanguage>
+      <Type>instm</Type>
+      <Scope>gdl::intrepid::discretization&lt; GeoMap, Cubature &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>a7b4bed54a21b2f791da0f71eec48cc28</Anchor>
+    <Abstract>returning a non const reference to the value of the basis functions in the cubature points ...</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>val</Name>
+      <APILanguage>unknown</APILanguage>
+      <Type>instm</Type>
+      <Scope>gdl::intrepid::discretization&lt; GeoMap, Cubature &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>ad7adeede49f6323708a719a532c2e06c</Anchor>
+    <Abstract>returning a const reference to the value of the basis functions in the cubature points ...</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>basis_cardinality</Name>
+      <APILanguage>unknown</APILanguage>
+      <Type>clm</Type>
+      <Scope>gdl::intrepid::discretization&lt; GeoMap, Cubature &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04406.html</Path>
+    <Anchor>a8f5e5b00e4d78e0a6b26edfae28b77e7</Anchor>
+    <Abstract>returning the number of basis function for the selected discretization </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gridtools::is_actual_storage&lt; pointer&lt; ::gdl::assemble_storage&lt; MetaData, Cardinalities ... &gt; &gt; &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gridtools::is_actual_storage&lt; pointer&lt; ::gdl::assemble_storage&lt; MetaData, Cardinalities ... &gt; &gt; &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04138.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gridtools::is_any_iterate_domain_storage&lt; ::gdl::assemble_storage&lt; MetaData, Cardinalities ... &gt; &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gridtools::is_any_iterate_domain_storage&lt; ::gdl::assemble_storage&lt; MetaData, Cardinalities ... &gt; &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04142.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gridtools::is_any_storage&lt; ::gdl::assemble_storage&lt; MetaData, Cardinalities ... &gt; &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gridtools::is_any_storage&lt; ::gdl::assemble_storage&lt; MetaData, Cardinalities ... &gt; &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04146.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gridtools::is_storage&lt; ::gdl::assemble_storage&lt; MetaData, Cardinalities ... &gt; &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gridtools::is_storage&lt; ::gdl::assemble_storage&lt; MetaData, Cardinalities ... &gt; &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04150.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>gridtools::is_temporary_storage&lt; storage&lt; ::gdl::assemble_storage&lt; MetaData, Cardinalities ... &gt; &gt; &gt;</Name>
+      <APILanguage>c</APILanguage>
+      <Type>tmplt</Type>
+      <Scope>gridtools::is_temporary_storage&lt; storage&lt; ::gdl::assemble_storage&lt; MetaData, Cardinalities ... &gt; &gt; &gt;</Scope>
+    </TokenIdentifier>
+    <Path>a04154.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>legendre</Name>
+      <APILanguage>c</APILanguage>
+      <Type>ns</Type>
+      <Scope>legendre</Scope>
+    </TokenIdentifier>
+    <Path>a03202.html</Path>
+    <Abstract>[assembly] </Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>legendre::compute_assembly</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>legendre::compute_assembly</Scope>
+    </TokenIdentifier>
+    <Path>a03790.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>legendre::compute_jacobian</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>legendre::compute_jacobian</Scope>
+    </TokenIdentifier>
+    <Path>a03794.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>legendre::flux</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>legendre::flux</Scope>
+    </TokenIdentifier>
+    <Path>a03798.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>legendre::legendre_advection</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>legendre::legendre_advection</Scope>
+    </TokenIdentifier>
+    <Path>a03802.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>legendre::mesh</Name>
+      <APILanguage>c</APILanguage>
+      <Type>cl</Type>
+      <Scope>legendre::mesh</Scope>
+    </TokenIdentifier>
+    <Path>a03806.html</Path>
+  </Token>
+</Tokens>

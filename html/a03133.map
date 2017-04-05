@@ -1,0 +1,33 @@
+<map id="/home/pol/src/GridTools/galerkin4gt_master/utils/indexing.hpp" name="/home/pol/src/GridTools/galerkin4gt_master/utils/indexing.hpp">
+<area shape="rect" id="node2" href="$a05324.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/functors\l/assembly_functors.hpp" alt="" coords="1387,109,1597,165"/>
+<area shape="rect" id="node32" href="$a03059.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/numerics\l/assemble_storage.hpp" alt="" coords="1927,317,2145,373"/>
+<area shape="rect" id="node3" href="$a03065.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/numerics\l/assembly_base.hpp" alt="" coords="1457,213,1674,269"/>
+<area shape="rect" id="node4" href="$a03062.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/numerics\l/assembly.hpp" alt="" coords="1407,317,1625,373"/>
+<area shape="rect" id="node22" href="$a02921.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/examples\l/gather.cpp" alt="" coords="280,421,501,477"/>
+<area shape="rect" id="node5" href="$a02909.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/examples\l/cg_linear_solver.cpp" alt="" coords="1803,421,2024,477"/>
+<area shape="rect" id="node6" href="$a03068.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/numerics\l/assembly_cg.hpp" alt="" coords="526,421,743,477"/>
+<area shape="rect" id="node9" href="$a03077.html" title="Definition of the quantities needed for performing computations on the boundary. " alt="" coords="767,421,985,477"/>
+<area shape="rect" id="node23" href="$a02927.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/examples\l/interpolation.cpp" alt="" coords="1160,421,1381,477"/>
+<area shape="rect" id="node24" href="$a02957.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/examples\l/linear_solver.cpp" alt="" coords="2048,421,2269,477"/>
+<area shape="rect" id="node25" href="$a02960.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/examples\l/mass.cpp" alt="" coords="1527,525,1748,581"/>
+<area shape="rect" id="node26" href="$a02984.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/examples\l/test_assembly.hpp" alt="" coords="1405,421,1627,477"/>
+<area shape="rect" id="node27" href="$a02963.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/examples\l/mass_2D.cpp" alt="" coords="1772,525,1993,581"/>
+<area shape="rect" id="node28" href="$a02966.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/examples\l/mass_3D.cpp" alt="" coords="2017,525,2239,581"/>
+<area shape="rect" id="node29" href="$a02978.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/examples\l/stiffness.cpp" alt="" coords="1036,525,1257,581"/>
+<area shape="rect" id="node30" href="$a02981.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/examples\l/stiffness_2D.cpp" alt="" coords="1281,525,1503,581"/>
+<area shape="rect" id="node31" href="$a02972.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/examples\l/poisson.cpp" alt="" coords="2293,421,2515,477"/>
+<area shape="rect" id="node7" href="$a03071.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/numerics\l/assembly_dg.hpp" alt="" coords="7,525,225,581"/>
+<area shape="rect" id="node8" href="$a02915.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/examples\l/dg_advection.cpp" alt="" coords="5,629,227,685"/>
+<area shape="rect" id="node10" href="$a02918.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/examples\l/dg_flux.cpp" alt="" coords="435,629,656,685"/>
+<area shape="rect" id="node11" href="$a02987.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/examples\l/test_dg_flux.hpp" alt="" coords="545,525,767,581"/>
+<area shape="rect" id="node12" href="$a02954.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/examples\l/legendre/mesh.hpp" alt="" coords="791,525,1012,581"/>
+<area shape="rect" id="node21" href="$a02942.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/examples\l/legendre.cpp" alt="" coords="249,525,471,581"/>
+<area shape="rect" id="node13" href="$a05318.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/examples\l/legendre/legendre.hpp" alt="" coords="999,629,1220,685"/>
+<area shape="rect" id="node20" href="$a02951.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/examples\l/legendre/mesh.cpp" alt="" coords="753,629,975,685"/>
+<area shape="rect" id="node14" href="$a02933.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/examples\l/legendre/compute_assembly.hpp" alt="" coords="755,733,995,789"/>
+<area shape="rect" id="node16" href="$a02948.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/examples\l/legendre/main.cpp" alt="" coords="921,837,1143,893"/>
+<area shape="rect" id="node17" href="$a02939.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/examples\l/legendre/compute_jacobian.hpp" alt="" coords="1069,733,1304,789"/>
+<area shape="rect" id="node19" href="$a05315.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/examples\l/legendre/legendre.cpp" alt="" coords="1328,733,1549,789"/>
+<area shape="rect" id="node15" href="$a02930.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/examples\l/legendre/compute_assembly.cpp" alt="" coords="658,837,897,893"/>
+<area shape="rect" id="node18" href="$a02936.html" title="/home/pol/src/GridTools\l/galerkin4gt_master/examples\l/legendre/compute_jacobian.cpp" alt="" coords="1167,837,1401,893"/>
+</map>

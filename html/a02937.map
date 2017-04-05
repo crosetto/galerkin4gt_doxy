@@ -1,0 +1,25 @@
+<map id="/home/pol/src/GridTools/galerkin4gt_master/examples/legendre/compute_jacobian.cpp" name="/home/pol/src/GridTools/galerkin4gt_master/examples/legendre/compute_jacobian.cpp">
+<area shape="rect" id="node2" href="$a02939.html" title="compute_jacobian.hpp" alt="" coords="617,109,786,136"/>
+<area shape="rect" id="node3" href="$a05318.html" title="legendre.hpp" alt="" coords="648,184,755,211"/>
+<area shape="rect" id="node4" href="$a02954.html" title="mesh.hpp" alt="" coords="658,259,745,285"/>
+<area shape="rect" id="node5" href="$a03077.html" title="Definition of the quantities needed for performing computations on the boundary. " alt="" coords="815,333,1038,360"/>
+<area shape="rect" id="node13" href="$a03098.html" title="tensor_product_element.hpp" alt="" coords="432,758,640,785"/>
+<area shape="rect" id="node48" href="$a03038.html" title="../../functors/matvec.hpp" alt="" coords="318,579,498,606"/>
+<area shape="rect" id="node50" href="$a03032.html" title="../../functors/interpolate.hpp" alt="" coords="1063,333,1265,360"/>
+<area shape="rect" id="node6" href="$a03062.html" title="assembly.hpp" alt="" coords="871,415,982,442"/>
+<area shape="rect" id="node45" href="$a03014.html" title="../functors/bd_assembly\l_functors.hpp" alt="" coords="1006,408,1183,449"/>
+<area shape="rect" id="node46" href="$a03020.html" title="../functors/dg_fluxes.hpp" alt="" coords="1325,415,1507,442"/>
+<area shape="rect" id="node7" href="$a03065.html" title="assembly_base.hpp" alt="" coords="979,497,1130,524"/>
+<area shape="rect" id="node39" href="$a05324.html" title="../functors/assembly\l_functors.hpp" alt="" coords="1128,572,1283,613"/>
+<area shape="rect" id="node42" href="$a03035.html" title="../functors/mass.hpp" alt="" coords="1205,497,1360,524"/>
+<area shape="rect" id="node43" href="$a03005.html" title="../functors/advection.hpp" alt="" coords="574,497,757,524"/>
+<area shape="rect" id="node44" href="$a03047.html" title="../functors/stiffness.hpp" alt="" coords="781,497,955,524"/>
+<area shape="rect" id="node9" href="$a03074.html" title="This file contains some of the core definitions used for the discretization on the reference space..." alt="" coords="641,669,791,695"/>
+<area shape="rect" id="node41" href="$a03089.html" title="intrepid.hpp" alt="" coords="1005,579,1105,606"/>
+<area shape="rect" id="node11" href="$a03050.html" title="../galerkin_defs.hpp" alt="" coords="257,758,407,785"/>
+<area shape="rect" id="node14" href="$a03080.html" title="cell.hpp" alt="" coords="665,758,738,785"/>
+<area shape="rect" id="node18" href="$a03086.html" title="element_traits.hpp" alt="" coords="2358,758,2503,785"/>
+<area shape="rect" id="node38" href="$a05321.html" title="legendre.hpp" alt="" coords="1997,847,2104,874"/>
+<area shape="rect" id="node40" href="$a03131.html" title="../utils/indexing.hpp" alt="" coords="4403,669,4554,695"/>
+<area shape="rect" id="node47" href="$a03041.html" title="project_on_boundary.hpp" alt="" coords="1384,497,1568,524"/>
+</map>

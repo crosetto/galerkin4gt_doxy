@@ -1,0 +1,7 @@
+<map id="coord_t::x" name="coord_t::x">
+<area shape="rect" id="node2" href="$a04078.html#a866eba1db9ead9d2e5a63d79ebcac2e0" title="square::is_inside_impl" alt="" coords="163,5,329,32"/>
+<area shape="rect" id="node3" href="$a04078.html#ae70d49efa03deb6337080cbd810ef12d" title="square::is_on_boundary_impl" alt="" coords="140,56,352,83"/>
+<area shape="rect" id="node4" href="$a03053.html#ae8dcef775a0628de63ffecc08b93b524" title="operator*" alt="" coords="204,107,288,133"/>
+<area shape="rect" id="node5" href="$a03053.html#acfe246fea8b8b89db5834325b39ed805" title="operator&#45;" alt="" coords="205,157,287,184"/>
+<area shape="rect" id="node6" href="$a03053.html#a367866d7117261c7ac0d13dfa626d57c" title="operator^" alt="" coords="202,208,290,235"/>
+</map>

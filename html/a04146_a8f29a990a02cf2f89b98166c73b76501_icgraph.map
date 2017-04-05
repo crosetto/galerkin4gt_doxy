@@ -1,0 +1,10 @@
+<map id="gdl::assembly::fe_backend" name="gdl::assembly::fe_backend">
+<area shape="rect" id="node2" href="$a04150.html#a337fd898cbba9480516fa42db43ef690" title="adds few extra placeholders&lt;&#45;&gt;storages items to the aggregator_type " alt="" coords="248,5,468,61"/>
+<area shape="rect" id="node3" href="$a04186.html#a7edc2b5bb9ba849fc3d884867a97fefc" title="gdl::assembly_cg::dphi" alt="" coords="273,85,443,112"/>
+<area shape="rect" id="node4" href="$a03790.html#aa466d78a893b6afb54a461c0f93e7171" title="legendre::legendre\l_advection::eval" alt="" coords="286,137,430,178"/>
+<area shape="rect" id="node5" href="$a02948.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="585,173,639,200"/>
+<area shape="rect" id="node6" href="$a03790.html#a196d4fe2572a89bcda2593905edea1b3" title="legendre::legendre\l_advection::legendre\l_advection" alt="" coords="279,253,437,309"/>
+<area shape="rect" id="node7" href="$a04186.html#a0bdf6d9748925676916ce72941ea3e93" title="gdl::assembly_cg::phi" alt="" coords="277,333,439,360"/>
+<area shape="rect" id="node8" href="$a04186.html#abce597699a960152bb0a20051a398b3f" title="gdl::assembly_cg::release" alt="" coords="263,384,453,411"/>
+<area shape="rect" id="node9" href="$a04190.html#af736235b6f5275d828cc76e6bc613551" title="gdl::assembly_dg::release" alt="" coords="516,384,708,411"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="gdl::bd_assembly&lt; Boundary &gt;" name="gdl::bd_assembly&lt; Boundary &gt;">
+<area shape="rect" id="node2" href="$a04222.html" title="{gdl::bd_assembly\&lt; bd\l_geo_t \&gt;\n||+ bd_assembly()\l+ bd_backend()\l+ bd_jac()\l+ bd_measure()\l+ get_bd_jac()\l+ get_bd_measure()\l+ get_normals()\l+ get_ref_normals()\l+ normals()\l+ ref_normals()\l}" alt="" coords="5,277,172,501"/>
+<area shape="rect" id="node3" href="$a04222.html" title="{gdl::bd_assembly\&lt; bd\l_discr_t \&gt;\n||+ bd_assembly()\l+ bd_backend()\l+ bd_jac()\l+ bd_measure()\l+ get_bd_jac()\l+ get_bd_measure()\l+ get_normals()\l+ get_ref_normals()\l+ normals()\l+ ref_normals()\l}" alt="" coords="196,277,363,501"/>
+</map>

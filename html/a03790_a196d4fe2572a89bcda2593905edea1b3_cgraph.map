@@ -1,0 +1,11 @@
+<map id="legendre::legendre_advection::legendre_advection" name="legendre::legendre_advection::legendre_advection">
+<area shape="rect" id="node2" href="$a04206.html#a457a1820a385fcd4a02be7d1c82e9e29" title="gdl::reference_element\l::basis_cardinality" alt="" coords="230,5,403,47"/>
+<area shape="rect" id="node3" href="$a04394.html#a79fd100ccc3f922a503fbbfd16c83891" title="gdl::intrepid::discretization\l::compute" alt="" coords="219,71,415,112"/>
+<area shape="rect" id="node4" href="$a04410.html#aece60986dd0ba2968de17bc56893aa33" title="gdl::intrepid::boundary\l_discr::compute" alt="" coords="232,136,401,177"/>
+<area shape="rect" id="node5" href="$a04146.html#a8f29a990a02cf2f89b98166c73b76501" title="gdl::assembly::fe_backend" alt="" coords="219,202,414,229"/>
+<area shape="rect" id="node6" href="$a04170.html#a85683206048cafec8aecd00cfe5a795c" title="gdl::assembly_base\l::grid" alt="" coords="241,253,392,295"/>
+<area shape="rect" id="node7" href="$a04402.html#a9efe50197a32308ed74ac85d985bfdc4" title="gdl::intrepid::geometry\l::grid" alt="" coords="231,319,402,360"/>
+<area shape="rect" id="node8" href="$a04314.html#a185c8835a5a93e0f90e000f04acd7a6d" title="gdl::cubature::numCubPoints" alt="" coords="212,385,421,411"/>
+<area shape="rect" id="node9" href="$a04314.html#a268c247453d5d32f488d23dea6f34848" title="gdl::cubature::cub" alt="" coords="469,385,608,411"/>
+<area shape="rect" id="node10" href="$a04314.html#af62425c7b18e4ae95ce0ad7b94ce2e69" title="gdl::cubature::cubFactory" alt="" coords="656,385,841,411"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="/home/pol/src/GridTools/galerkin4gt_master/examples/linear_solver.cpp" name="/home/pol/src/GridTools/galerkin4gt_master/examples/linear_solver.cpp">
+<area shape="rect" id="node3" href="$a03062.html" title="../numerics/assembly.hpp" alt="" coords="1795,117,1981,143"/>
+<area shape="rect" id="node43" href="$a03059.html" title="../numerics/assemble\l_storage.hpp" alt="" coords="2195,109,2357,151"/>
+<area shape="rect" id="node44" href="$a03092.html" title="../numerics/linear\l_solver.hpp" alt="" coords="2581,199,2715,240"/>
+<area shape="rect" id="node4" href="$a03065.html" title="assembly_base.hpp" alt="" coords="1906,206,2057,233"/>
+<area shape="rect" id="node30" href="$a05324.html" title="../functors/assembly\l_functors.hpp" alt="" coords="2015,288,2169,329"/>
+<area shape="rect" id="node40" href="$a03035.html" title="../functors/mass.hpp" alt="" coords="1321,206,1476,233"/>
+<area shape="rect" id="node41" href="$a03005.html" title="../functors/advection.hpp" alt="" coords="1501,206,1683,233"/>
+<area shape="rect" id="node42" href="$a03047.html" title="../functors/stiffness.hpp" alt="" coords="1707,206,1882,233"/>
+<area shape="rect" id="node6" href="$a03074.html" title="This file contains some of the core definitions used for the discretization on the reference space..." alt="" coords="2239,385,2390,411"/>
+<area shape="rect" id="node32" href="$a03089.html" title="intrepid.hpp" alt="" coords="1522,295,1622,322"/>
+<area shape="rect" id="node8" href="$a03050.html" title="../galerkin_defs.hpp" alt="" coords="2647,474,2798,501"/>
+<area shape="rect" id="node10" href="$a03098.html" title="tensor_product_element.hpp" alt="" coords="2415,474,2623,501"/>
+<area shape="rect" id="node11" href="$a03080.html" title="cell.hpp" alt="" coords="2142,474,2215,501"/>
+<area shape="rect" id="node15" href="$a03086.html" title="element_traits.hpp" alt="" coords="1493,474,1638,501"/>
+<area shape="rect" id="node31" href="$a03131.html" title="../utils/indexing.hpp" alt="" coords="2065,385,2215,411"/>
+<area shape="rect" id="node39" href="$a03083.html" title="cubature.hpp" alt="" coords="1676,385,1783,411"/>
+<area shape="rect" id="node45" href="$a03038.html" title="../functors/matvec.hpp" alt="" coords="2497,295,2665,322"/>
+<area shape="rect" id="node47" href="$a03044.html" title="../functors/reduction.hpp" alt="" coords="2753,295,2933,322"/>
+<area shape="rect" id="node48" href="$a03017.html" title="../functors/copy_vector.hpp" alt="" coords="2957,295,3155,322"/>
+<area shape="rect" id="node49" href="$a03011.html" title="../functors/assign.hpp" alt="" coords="3179,295,3341,322"/>
+</map>

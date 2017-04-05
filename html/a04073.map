@@ -1,0 +1,6 @@
+<map id="subdomain&lt; SubdomainDef &gt;" name="subdomain&lt; SubdomainDef &gt;">
+<area shape="rect" id="node2" href="$a04074.html" title="{subdomain\&lt; segment \&gt;\n|+ m_data\l|+ subdomain()\l+ is_on_boundary()\l}" alt="" coords="10,160,191,252"/>
+<area shape="rect" id="node4" href="$a04074.html" title="{subdomain\&lt; square \&gt;\n|+ m_data\l|+ subdomain()\l+ is_on_boundary()\l}" alt="" coords="221,160,389,252"/>
+<area shape="rect" id="node3" href="$a04082.html" title="{segment\n||+ is_on_boundary_impl()\l}" alt="" coords="5,309,191,386"/>
+<area shape="rect" id="node5" href="$a04078.html" title="{square\n||+ is_inside_impl()\l+ is_on_boundary_impl()\l}" alt="" coords="215,301,400,393"/>
+</map>

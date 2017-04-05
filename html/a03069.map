@@ -1,0 +1,17 @@
+<map id="/home/pol/src/GridTools/galerkin4gt_master/numerics/assembly_cg.hpp" name="/home/pol/src/GridTools/galerkin4gt_master/numerics/assembly_cg.hpp">
+<area shape="rect" id="node2" href="$a03062.html" title="assembly.hpp" alt="" coords="4034,109,4145,136"/>
+<area shape="rect" id="node3" href="$a03065.html" title="assembly_base.hpp" alt="" coords="3746,184,3897,211"/>
+<area shape="rect" id="node36" href="$a05324.html" title="../functors/assembly\l_functors.hpp" alt="" coords="3937,259,4092,300"/>
+<area shape="rect" id="node48" href="$a03035.html" title="../functors/mass.hpp" alt="" coords="4012,184,4167,211"/>
+<area shape="rect" id="node49" href="$a03005.html" title="../functors/advection.hpp" alt="" coords="4191,184,4374,211"/>
+<area shape="rect" id="node50" href="$a03047.html" title="../functors/stiffness.hpp" alt="" coords="4398,184,4573,211"/>
+<area shape="rect" id="node5" href="$a03074.html" title="This file contains some of the core definitions used for the discretization on the reference space..." alt="" coords="1886,355,2037,382"/>
+<area shape="rect" id="node38" href="$a03089.html" title="intrepid.hpp" alt="" coords="3606,266,3706,293"/>
+<area shape="rect" id="node7" href="$a03050.html" title="../galerkin_defs.hpp" alt="" coords="447,445,598,471"/>
+<area shape="rect" id="node9" href="$a03098.html" title="tensor_product_element.hpp" alt="" coords="1517,445,1725,471"/>
+<area shape="rect" id="node10" href="$a03080.html" title="cell.hpp" alt="" coords="1925,445,1998,471"/>
+<area shape="rect" id="node14" href="$a03086.html" title="element_traits.hpp" alt="" coords="2470,445,2615,471"/>
+<area shape="rect" id="node34" href="$a05321.html" title="legendre.hpp" alt="" coords="4220,534,4327,561"/>
+<area shape="rect" id="node37" href="$a03131.html" title="../utils/indexing.hpp" alt="" coords="4453,355,4603,382"/>
+<area shape="rect" id="node44" href="$a03083.html" title="cubature.hpp" alt="" coords="2795,355,2901,382"/>
+</map>

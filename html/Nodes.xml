@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DocSetNodes version="1.0">
+  <TOC>
+    <Node>
+      <Name>Root</Name>
+      <Path>index.html</Path>
+      <Subnodes>
+       <Node>
+        <Name>Galerkin methods using GridTools</Name>
+        <Path>index.html</Path>
+        <Subnodes>
+         <Node>
+          <Name>Disclaimer</Name>
+          <Path>index.html</Path>
+          <Anchor>Disclaimer</Anchor>
+         </Node>
+         <Node>
+          <Name>Introduction</Name>
+          <Path>index.html</Path>
+          <Anchor>Introduction</Anchor>
+         </Node>
+         <Node>
+          <Name>Generic Description and Concepts</Name>
+          <Path>index.html</Path>
+          <Anchor>sec_concepts</Anchor>
+         </Node>
+         <Node>
+          <Name>GridTools</Name>
+          <Path>index.html</Path>
+          <Anchor>gt</Anchor>
+          <Subnodes>
+           <Node>
+            <Name>Libraries</Name>
+            <Path>index.html</Path>
+            <Anchor>The</Anchor>
+            <Subnodes>
+             <Node>
+              <Name>Optimizations</Name>
+              <Path>index.html</Path>
+              <Anchor>Optimizations</Anchor>
+             </Node>
+             <Node>
+              <Name>API</Name>
+              <Path>index.html</Path>
+              <Anchor>API</Anchor>
+             </Node>
+            </Subnodes>
+           </Node>
+          </Subnodes>
+         </Node>
+        </Subnodes>
+       </Node>
+       <Node>
+        <Name>Discontinuous Galerkin</Name>
+        <Path>a05319.html</Path>
+       </Node>
+       <Node>
+        <Name>Examples</Name>
+        <Path>a05322.html</Path>
+        <Subnodes>
+         <Node>
+          <Name>Structure of the Examples</Name>
+          <Path>a05322.html</Path>
+          <Anchor>structure</Anchor>
+         </Node>
+         <Node>
+          <Name>Examples</Name>
+          <Path>a05322.html</Path>
+          <Anchor>examples</Anchor>
+         </Node>
+         <Node>
+          <Name>Scalar Vector Sum</Name>
+          <Path>a05330.html</Path>
+         </Node>
+         <Node>
+          <Name>Vector Vector Multiplication</Name>
+          <Path>a05332.html</Path>
+         </Node>
+         <Node>
+          <Name>Matrix Vector Multiplication</Name>
+          <Path>a05329.html</Path>
+         </Node>
+         <Node>
+          <Name>Mass Matrix Discretization</Name>
+          <Path>a05328.html</Path>
+         </Node>
+         <Node>
+          <Name>Stiffness Matrix Discretization</Name>
+          <Path>a05331.html</Path>
+         </Node>
+         <Node>
+          <Name>Gather from neighbours</Name>
+          <Path>a05324.html</Path>
+         </Node>
+         <Node>
+          <Name>DG Flux Implementation Example</Name>
+          <Path>a05321.html</Path>
+         </Node>
+         <Node>
+          <Name>Interpolation between FE Spaces</Name>
+          <Path>a05326.html</Path>
+         </Node>
+         <Node>
+          <Name>SEM Diagonal Local Mass Matrix (Using Legendre Basis Functions)</Name>
+          <Path>a05327.html</Path>
+         </Node>
+         <Node>
+          <Name>Implementation of a DG Advection Example</Name>
+          <Path>a05320.html</Path>
+         </Node>
+         <Node>
+          <Name>I/O Example (cubed sphere grid)</Name>
+          <Path>a05318.html</Path>
+         </Node>
+        </Subnodes>
+       </Node>
+       <Node>
+        <Name>Galerking Discretization (continuous)</Name>
+        <Path>a05323.html</Path>
+        <Subnodes>
+         <Node>
+          <Name>Problem Description</Name>
+          <Path>a05323.html</Path>
+          <Anchor>sec_fe_pb_description</Anchor>
+         </Node>
+         <Node>
+          <Name>Structure of the code</Name>
+          <Path>a05323.html</Path>
+          <Anchor>sec_structure</Anchor>
+         </Node>
+        </Subnodes>
+       </Node>
+       <Node>
+        <Name>Installation instructions</Name>
+        <Path>a05325.html</Path>
+       </Node>
+       <Node>
+        <Name>Bibliography</Name>
+        <Path>a05352.html</Path>
+       </Node>
+      </Subnodes>
+    </Node>
+  </TOC>
+</DocSetNodes>

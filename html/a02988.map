@@ -1,0 +1,12 @@
+<map id="/home/pol/src/GridTools/galerkin4gt_master/examples/test_dg_flux.hpp" name="/home/pol/src/GridTools/galerkin4gt_master/examples/test_dg_flux.hpp">
+<area shape="rect" id="node2" href="$a03077.html" title="Definition of the quantities needed for performing computations on the boundary. " alt="" coords="3195,109,3405,136"/>
+<area shape="rect" id="node3" href="$a03062.html" title="assembly.hpp" alt="" coords="3062,191,3173,218"/>
+<area shape="rect" id="node4" href="$a03065.html" title="assembly_base.hpp" alt="" coords="3201,273,3351,300"/>
+<area shape="rect" id="node34" href="$a05346.html" title="../functors/assembly\l_functors.hpp" alt="" coords="3392,348,3547,389"/>
+<area shape="rect" id="node44" href="$a03035.html" title="../functors/mass.hpp" alt="" coords="2616,273,2771,300"/>
+<area shape="rect" id="node6" href="$a03074.html" title="This file contains some of the core definitions used for the discretization on the reference space..." alt="" coords="2297,445,2447,471"/>
+<area shape="rect" id="node36" href="$a03089.html" title="intrepid.hpp" alt="" coords="3061,355,3161,382"/>
+<area shape="rect" id="node8" href="$a03050.html" title="global definitions, used in the whole library. This file is included everywhere. " alt="" coords="213,534,363,561"/>
+<area shape="rect" id="node16" href="$a03086.html" title="element_traits.hpp" alt="" coords="1925,534,2070,561"/>
+<area shape="rect" id="node43" href="$a03083.html" title="cubature.hpp" alt="" coords="3445,445,3552,471"/>
+</map>
